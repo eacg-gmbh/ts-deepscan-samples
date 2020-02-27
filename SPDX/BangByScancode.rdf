@@ -1,0 +1,3140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ns1="http://spdx.org/rdf/terms#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <ns1:SpdxDocument rdf:about="http://www.spdx.org/tools#SPDXRef-DOCUMENT">
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Nf225cd0e5f5d4fc1a790d7da32d705ab">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown</ns1:licenseId>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</ns1:extractedText>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:describesPackage>
+      <ns1:Package rdf:about="http://www.spdx.org/tools#SPDXRef-Package">
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/LGPL-2.0-only"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/CC-BY-SA-2.5"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/MPL-1.0"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/WTFPL"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/LGPL-2.0-or-later"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/MPL-2.0"/>
+        <ns1:licenseInfoFromFiles>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Nef930e5e180e40b6b4462e520d6a1f86">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoFromFiles>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/Unlicense"/>
+        <ns1:downloadLocation rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/Artistic-1.0"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/AGPL-3.0-only"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/GPL-1.0-only"/>
+        <ns1:licenseInfoFromFiles>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N1098ae4760324821acb950dd0e375774">
+            <ns1:licenseId>LicenseRef-scancode-public-domain</ns1:licenseId>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/public-domain.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/public-domain.yml
+</ns1:extractedText>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoFromFiles>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/MIT"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/GPL-1.0-or-later"/>
+        <ns1:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/CC-BY-4.0"/>
+        <ns1:licenseInfoFromFiles>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Nb35cf674391b4ac89672d21451307661">
+            <ns1:licenseId>LicenseRef-scancode-gust-font-1.0</ns1:licenseId>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/gust-font-1.0.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/gust-font-1.0.yml
+</ns1:extractedText>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoFromFiles>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/Apache-1.1"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/GFDL-1.3-only"/>
+        <ns1:name>binaryanalysis-ng</ns1:name>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/GPL-3.0-only"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/CC-BY-SA-4.0"/>
+        <ns1:licenseDeclared rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/Zlib"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/BSD-3-Clause"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/CC-BY-SA-2.0"/>
+        <ns1:packageVerificationCode>
+          <ns1:PackageVerificationCode rdf:nodeID="N19a7095e36a4491085e068556f1572ee">
+            <ns1:packageVerificationCodeValue>9b66024ca70e962050186a373b7d8bd5ca8a1688</ns1:packageVerificationCodeValue>
+          </ns1:PackageVerificationCode>
+        </ns1:packageVerificationCode>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/CC-BY-SA-3.0"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/BSD-2-Clause"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/SISSL"/>
+        <ns1:copyrightText><![CDATA[(c) 1993
+(c) 1997-2006
+(c) 2006-2007 CDRKIT
+Copyright (c) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+Copyright (c) 2010-2015 Craig Heffner
+Copyright 2011 Twitter, Inc
+Copyright 2012 Nut & Bolt
+Copyright 2016, The Android Open Source Project
+Copyright 2018-2019 - Armijn Hemel
+Copyright 2019 - Armijn Hemel
+Copyright Apple Inc., 2017
+]]></ns1:copyrightText>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/GPL-2.0-only"/>
+        <ns1:hasFile rdf:resource="http://www.spdx.org/files#None"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/CC-BY-2.0"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/CC-BY-3.0"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/Artistic-2.0"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/LGPL-2.1-only"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/LGPL-3.0-only"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/OpenSSL"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/MPL-1.1"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+      </ns1:Package>
+    </ns1:describesPackage>
+    <ns1:specVersion>SPDX-2.1</ns1:specVersion>
+    <ns1:referencesFile>
+      <ns1:File rdf:about="http://www.spdx.org/files#None">
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/gimpbrush/test-data-added-to-middle.gbr</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nf2bc7d033d9846ea86c2d8c16b932ee2">
+            <ns1:checksumValue>184c6f126f625d7504122a4546af6affab15d4a3</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/rzip/test-data-added-to-middle.rz</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nc909a7b73897458798013a33d5b69c16">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>7c6403926b29da1a433137e5cddaf355d474c44d</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N17129b9da9494bd58cc6fb7791efebdf">
+            <ns1:checksumValue>48bde11ff231468ded0c06c031ff694dde95e5ef</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nd14729c99ca6470b987cc7d0742d61a7">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>ad43443f9d46c7d6a77c69c4a99b70481f78b103</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-2048-64-be-links.img</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N2dee669a9736485e982e9978ceafbf53">
+            <ns1:checksumValue>c4217e4b31c0ab17d87b500a24e1690992f4f9e3</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N4a0648e6e88e41339b5e2ed40397904e">
+            <ns1:checksumValue>2b790ec5f042698ac4dbe06f14aa766872916512</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lzip/test-cut-data-from-middle.lz</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/rzip/test.rz</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Na6dca1e52e6e4850b993eb42206da93d">
+            <ns1:checksumValue>f8b6d27d025ec15a9cb4f0ed30360e3c357ff5af</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/bangmedia.py</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N158d1de3441a492a99659bc367488548">
+            <ns1:checksumValue>a75dcfb47fa36c56eaf36aca13400ac628f669d3</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/png/Animated_PNG_example_bouncing_beach_ball.png</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Naa488794086e45c18c25add2f5d13fa5">
+            <ns1:checksumValue>dba52d1e0e6e0495aae0820290f4ed0167a885ef</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-8192-256-be-empty-file.img</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xar/test-none-cut-data-from-middle.xar</ns1:fileName>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/CC-BY-SA-3.0"/>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N656bd292b3274caab958c740a9b01cc7">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>13a885b50991cf07b70965c8f7330a04a6c3e7a9</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ncbb1245f161840fead2c22c4fb0a32cb">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>38171c34781bc15207e4eea43385e776d8b0b001</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Necb57f55840e4b5f804774384c1e7bda">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>0be5ca56891d34eef913a8b8ae864b57d9a42f1e</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/gzip/test.jpg-cut-data-from-end.gz</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lzma/test-prepend-random-data.lzma</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/bzip2/test-cut-data-from-end-add-random.bz2</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N0dbea502676e43499d7394fadcd51896">
+            <ns1:checksumValue>9a6952d42289d3c514dc9ebc87feb87253bba0cc</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/doc/defensivepublications.md</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/iso9660/test-cut-data-from-end-add-random.iso</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N98fc12f977b94396b0a667d629adfe74">
+            <ns1:checksumValue>da78e46900f33d2fc032d330373de886d2c3800b</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N8bc5fe4e3b0940fd820dd8e115e593d9">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>a9a2aad9ecc4ba5479e5cdf0916a1f7068c3c4fd</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/pnm/test-cut-data-from-end.pnm</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Naa034e6949034a75945b887f91738028">
+            <ns1:checksumValue>63bea4b7b688a2a10a7e17ae571a29c1be454af3</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/jffs2/test-big-data-replaced-in-middle.jffs2</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/LICENSE</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/ico/test-png-cut-data-from-middle.ico</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-crc-prepend-random-data.cpio</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N670f54890d1b45a7956e46c22e3c8502">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>0bf8c5d448092c19461b87e4e6b2fa36eb34168a</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N4f8ddd9b3b1d40a58131231effd01b89">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>7941b4a89f8687e7bf711c67b396298f89fffe61</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-4096-128-le-dir-with-file.img</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nab6f620de55d4fbb93b31a8f5dcf7671">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>b87f6eb093b5e070f9c6e1c553ad79699fd2d0d6</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xar/test-none-prepend-random-data.xar</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-old-bin-cut-data-from-end.cpio</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Necffd67fa222451a8c081823f075faf5">
+            <ns1:checksumValue>c5867ef1c271176f988c95e76bb13c82276591d6</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N6da2fac64f024cefb09bd4848a2801c1">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>373b5194d6be0f41650b301a510696611591350b</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nb58b960313cd47e1abfaaebc29042a59">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>f2e04d3c0f88f9a31cfe2f0427cd8423575fa0d4</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N308b6789957d44d3a98c7f66cdd422d9">
+            <ns1:checksumValue>b83be59826fed5250ce81db5a9b332ebdddf8e94</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N0be4f63be13e4d4cadcbf7965608d50b">
+            <ns1:checksumValue>b2a3bf2e04be8cac734503cb09ae3daf70d9787c</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N9ddeb893cc724cba81ff480c7e936372">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>8c785738a87efdf361d703611fb680657ec90069</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nee875e99491b4cca9ec46b28606b969d">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>c36a48f6cf50957a90bb55d8322f48d9ab47f48b</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N58a8cb6adf5a43df80751890cba70409">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>e51e3f756ce948b4060fa20fe3e526691b9a9bfa</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N2682b5be38fa4a2e8df5f77096744993">
+            <ns1:checksumValue>c5b73ba8d895c4164bec550687a40b8056bc938f</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/squashfs/test-prepend-random-data.sqsh</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-2048-64-le-empty-dir.img</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/jffs2/test-big-cut-data-from-end-add-random.jffs2</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nb283dff64be34faf9268fccbb6b896d5">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>8624f75a753978ca29cc551a8e5af4a1acae3abf</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ndf97264499b94bf897b102f65ce66c22">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>f9486416770daff96d990354f62e793db28354eb</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/gzip/test.jpg-prepend-random-data.gz</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/ar/test.ar</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-crc-data-added-to-middle.cpio</ns1:fileName>
+        <ns1:copyrightText rdf:resource="http://spdx.org/rdf/terms#none"/>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/png/test-data-added-to-middle.png</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/doc/blogposts.md</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xar/test-none-add-random-data.xar</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/ar/test-prepend-random-data.ar</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nc1d6945539284846a8fa1f0c23c4e0d8">
+            <ns1:checksumValue>c1a1f90221bc777bd2537215040c3bd6f1a9a02b</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/LGPL-2.0-only"/>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nfd898ce50280499e8410bb50dc0ec36a">
+            <ns1:checksumValue>3c297efee0fe117fea0ff9a949b430b620e3c6a9</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/SISSL"/>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N5e805029a9b6419fbd2f0567a19892d6">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>5313cc1f63ca11d0fa5aee54a568697e62ff8190</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N1557a409f2824417827df5406949ec50">
+            <ns1:checksumValue>9e28c12e3f8d34da536b2790fa1d55dd62dbac0e</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nba977922b235489a84474a4eeb01e2d4">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>6334fa9b764ac1504c1dfee930a948a9993bb5ea</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N08205bb2bcff4cae9d7c9ed50ec10a42">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>8c1206a6a00a585851bbbd66ea27fd5a3e929d1e</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/iso9660/test-cut-data-from-end.iso</ns1:fileName>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MIT"/>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N35bbfb9656aa4ce69e8b97d3ee9b46e4">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>933f6f4fbf3788d219878abdbf7db56853ff2506</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xar/test-bzip2-data-added-to-middle.xar</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/rzip/test-cut-data-from-middle.rz</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N7d15f2a409c54648897b8e2fd222eb17">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>4392fb2e20a8a457f61b58e2facc40c9c624c850</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N30797875e9a44c76b7a7e3744e96e7d5">
+            <ns1:checksumValue>efe757342cf6aeedbdb2354caa3d8ecd20246e72</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nb7c1201fad654d45957ad88a7695f747">
+            <ns1:checksumValue>7d6593cf873369ba1ed9621c0ef7fe5cb5ae7113</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Na1ba75266a924ef69790105f0af3a0de">
+            <ns1:checksumValue>f2f38196eefb1c3b21d0892c3ea16d53ee27636f</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N4c9ee5582b0d4b75bc4b271e204e4806">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>052dd58f52e7f0ab85b486027604c35c84ea6e92</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/bang.config</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N4f65a504fdb54be5b3fcb401b8c517fb">
+            <ns1:checksumValue>6cc9d31b7b021f78e581ab28db006ecdf65d4773</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N47db961738f94b4c8f746e17f1b7763f">
+            <ns1:checksumValue>b0bc781217678ab64309851ef36959d1127a1f6c</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/performance-test/bang-scanner/combine-perftests.py</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/ico/test-cut-data-from-middle.ico</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/jpeg/test-cut-data-from-middle.jpg</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xar/test-bzip2-prepend-random-data.xar</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nf15cfffcec63486eb04a0560a6a66d83">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>41f8450ad7ed99297b56713c78d22832e45f6a7c</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nc44801794af542608d04d9397d081f31">
+            <ns1:checksumValue>b8adf0d638c736bc3b30ebf824e38c47f7c4bcad</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N07b6ff861e024c3c8d1e353e3f179825">
+            <ns1:checksumValue>266e3fbb20a0e3c0017debce2d67d64ee99488d2</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/tar/test.tar</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/zip/test.zip</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N92f3b5984bfc46958750f947cb715832">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>8a8e72d93c4338018930d2087712c729738e3174</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-8192-256-le-dir-with-file.img</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/INSTALL.ubuntu</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-4096-64-le-empty-file.img</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N7faa3640e7e34b7da9c30081aaa4592f">
+            <ns1:checksumValue>236ac9384d243d4ac18af1b4c42c089b6acc0994</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/GPL-3.0-only"/>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N450354ebc3dd4a7cb3f211c2e0a272ef">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>3ce57a8ada861325b482dc04f109f8b4d0758352</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N4692d633d1754b8d94d32364d9022a81">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>9049441a412a36abb11cc88734b3b26f65d0da18</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N7ce814bacf9c401682153127fc2c910a">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>81ce40db0ee083d361360ac7fe547920e5c10ea6</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nad740bc5889c405fb1c03ee153f35f81">
+            <ns1:checksumValue>af3e0651b213e44fd549f606911bedae07539923</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N6127cba407c64503b17ddbd8adc06235">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>09276d8d6d43ae68482c135a9a2b141e0074d180</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ndb2f29b02e8343b8a7bdd302e4d62bc0">
+            <ns1:checksumValue>d6db5cba5589c9e28a1bd763d14cf5a6f74584af</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/performance-test/bang-scanner/analyze-times.py</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/TestUnpackResult.py</ns1:fileName>
+        <ns1:copyrightText>Copyright 2018-2019 - Armijn Hemel
+</ns1:copyrightText>
+        <ns1:fileName>./binaryanalysis-ng/src/reporter/humanreadablereport.py</ns1:fileName>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Zlib"/>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nacc73dd1a1e64cc7a963d4f019b03928">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>cd0f62be8723e863d628fd3affb4ce7aec7d214c</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nc7a971cdc2f3426eae0aebfbebe22dff">
+            <ns1:checksumValue>66d723f9fd4a839a6bc5ee4acda8a68c0e592dbe</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nfa3f1df5ff554564a2fd292223906d0c">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>f925b174db8eb0aac8febd9f226aef6ce5cab70d</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N8e7183be090047ca9fcbde6c2c566a54">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>2c28d8e9e1a7b084a3f3810cd3f77a92b58e99f3</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N2b8b5e40337549edacdbed04fb84bbc2">
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown</ns1:licenseId>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</ns1:extractedText>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lzma/test-data-replaced-in-middle.lzma</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/TestUtil.py</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/performance-test/bang-scanner/run-tests.sh</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nbeb99340a3dc45598772679c5a3f4d79">
+            <ns1:checksumValue>8d634b12f31ba84c5050764f8c22fcc503273bd9</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nc2f94dc42d444519bf1242b9f3a36bca">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>9f409e919ede28d3073caada2c82ce9433079814</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ne228cef008084d4e87b9b08ca2e280fb">
+            <ns1:checksumValue>b2fdef6b5dcd22881a280bdd24fbdbef091238bd</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N13ffef0cae9741a290553791b73b9112">
+            <ns1:checksumValue>ea0bf6820d0cb18c1b96f45abfe24487e208bb43</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/doc/weirdfiles.md</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ndae2f449a4cc43fd8bc05182a6ca83f1">
+            <ns1:checksumValue>37d49ed35e5c3dfd451e00e895eed5dbe70a4a90</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-2048-64-le-dir-with-file.img</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N70c78e3b0e4c42a2b0aa97e7a788dbe9">
+            <ns1:checksumValue>841c38c99648bac1de915dbb1f4c50b3c4ea6114</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/a/hello.gz</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N5e1b605cc40e4e9387ed70261068a6fa">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>74e1ae94b2dda7866b322e309e0ff9d8d03708ce</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N906729f3a07b4fc3a38117f5a6c02279">
+            <ns1:checksumValue>cf68de914308fc10b6453568dfcd51d520e49b6f</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N667a93b83cc94a508e4dcd2c6773fb60">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>e925c39c888563f223a9ec324d2d202b87ee7f74</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N141ec03d4b8944d4adea96aa950de308">
+            <ns1:checksumValue>42164c1e9e0a1f386ed3b3be953f592c181fb93a</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/squashfs/test-cut-data-from-end-add-random.sqsh</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lzop/test-data-replaced-in-middle.lzo</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nb34001f755ee4b299087699c993cab98">
+            <ns1:checksumValue>e18b4b435513e477b50c24c011a2532cb839bc3a</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-old-data-replaced-in-middle.cpio</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/png/Animated_PNG_example_bouncing_beach_ball-cut-data-from-end-add-random.png</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nc7b054d26e724b5aa37998415ec4bb03">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>2498d38764aff70860ee19842e485bae868f495b</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/pnm/test-cut-data-from-end-add-random.pnm</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N194d188872164cc88f4ba86406517848">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>94e3250299a9fcf40ab66148c2c472bbba340c0f</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N052c8acc6cd1425c9a264b918152bba7">
+            <ns1:checksumValue>b408905bb673413c0620a31ee9cfeb28189cc3c0</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ne50abdc111674fabab81105ad0be0cfe">
+            <ns1:checksumValue>11137879bf478082c703789ce20a8761806a5971</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nfbb63e2acaa04fac8557785ab7a74f88">
+            <ns1:checksumValue>cb770afe86ce9e8fdb97586e6b9757b0c986bc51</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/GPL-1.0-or-later"/>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/jffs2/test-big-add-random-data.jffs2</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/7z/test-cut-data-from-middle.7z</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/TestScanJob.py</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/png/test-prepend-random-data.png</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N005cda2e61bd4374a52f64dbaab78b58">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>43d7b3b0a3fa4b0dafa9126b9ad4fe6d6b3a71e3</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-crc-cut-data-from-end-add-random.cpio</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-2048-64-le-links.img</ns1:fileName>
+        <ns1:copyrightText><![CDATA[Copyright (c) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+]]></ns1:copyrightText>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/bzip2/test-data-added-to-middle.bz2</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xz/test-add-random-data.xz</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N54cb4450ed014c44983e9b533632e7b7">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>6b84fefca745abe2d9e1f146736263e50009147f</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N8060e1745e284f7f90385323755d5d24">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>14f26da9f4c70c0d130b534df950a2b702bdd52c</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-old-bin-data-added-to-middle.cpio</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N8b0b449c895a48cf97a1652e32daa8a2">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>d3dcb528b150959413e6da750d0966b42e1d9b9d</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N5176b5110a40478d87740ac811f1c499">
+            <ns1:checksumValue>8e631419b4841eae07162f5756bbbb4d024c6254</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/ScanEnvironment.py</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N3114e725552b42e1ba91c7bc522f47d2">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>770dc33b37d61be4cb61cb43b051c120b4ff06fc</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N67c0521a58ba41da90f4bff48dde31cc">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>62ec2edc0d05f19c75282d19fa296ddf910ba058</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-old.cpio</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/a/cascade.css</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/iso9660/test-add-random-data.iso</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N4df2eccdddf5499a952446bdec38fcaf">
+            <ns1:checksumValue>fba6998a0a5edd1735db3243947073dc5bbabddd</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/tar/test-prepend-random-data.tar</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/iso9660/test-data-replaced-in-middle.iso</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lzip/test-prepend-random-data.lz</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N06ef50b112ff48cb987959425761b946">
+            <ns1:checksumValue>dafe5c567fa533db7b3f414f51faba1a8d6e2dce</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/ico/test-png-prepend-random-data.ico</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N1bee31c43eb24aa3b82d26ff902b6a3d">
+            <ns1:checksumValue>d7278e82c7c672286a2a538eede179f0df3452a2</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N9dd38903eb0148d4b5580f4b6ddca493">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>fc58b6f5094b537eacb1c2c5f2cdf316370bbee2</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/pnm/test-add-random-data.pnm</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N4f6f3cece3ac4a629e782edf9fb5a7ee">
+            <ns1:checksumValue>1edeaf2338721aa3533a1e7bb72ddb718bd48c81</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xar/test-gzip-data-added-to-middle.xar</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-old-bin-cut-data-from-middle.cpio</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N75e49206cc3643c6a31902d93a9f3387">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>e7e46150cf80eb988836269a96b1e9d6ccfa3856</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nbe8cc30094dc4e8c9e1a3d3aea278809">
+            <ns1:checksumValue>7fb0200c70f0fd32c46556c80e9f63d53fa0226d</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N6732ba8375614114a9db28b94d5557c6">
+            <ns1:checksumValue>f814fbb4b9f99590a7d77e1f080d33e7e8762586</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N88703da22a2b4903a0a2680037193456">
+            <ns1:checksumValue>8433c36d901b119efc183252622193209d15980e</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/ico/test-data-replaced-in-middle.ico</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N38db6658eaae4c9baea334104fb76a46">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>b97d3e94ad5658f23fb3adaa77d762cedd65654d</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N6bb689228943430cb17acd0d8cb4f009">
+            <ns1:checksumValue>90257764976a0c951e34cb42f68b1176463397a0</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nc6316765e9aa4ef195fa1ed925cdcc3b">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>517052d6b136e17db5236214d908bc9eb193ad28</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Naa0df8a848cc456eb11ab00410d1178e">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>0a510d98bcb4ea19cfcfd9228ce0b965840220ee</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Nf5ca6eb46df94d718ffaa0e2d955c007">
+            <ns1:licenseId>LicenseRef-scancode-unknown</ns1:licenseId>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</ns1:extractedText>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/ar/test-add-random-data.ar</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N7872e8ccb43d4ac1a58c082d91d496d9">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>225009d8b576627df651492696e3163cedd546ff</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MPL-1.1"/>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N714ae61e09f24256a3b101efa44cada6">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>dd535d586fe78db6f18aa231555ac5439671fc74</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/zstd/test-data-replaced-in-middle.zst</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N586d64d903a64502b58cea23864efef8">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>519b13d750e05ecbe8f8eb4252457f067d2f111d</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/squashfs/test-data-added-to-middle.sqsh</ns1:fileName>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/AGPL-3.0-only"/>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nd13c494cbb3a426c8f05ee7d82d3fba1">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>bd56e0ad09c9c11dde77d30010e9704110c05bf2</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/ico/test-png-cut-data-from-end.ico</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/doc/elasticsearch.md</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/squashfs/test-data-replaced-in-middle.sqsh</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ne67fc6de3a5840e189ea9820ab16c696">
+            <ns1:checksumValue>f6f8766fdf064331c20db90de59c3bbef4d197ba</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N537bd79423b74427b3c5df655a48fbce">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>e64c646dfb0f01d6609ca7ff97bc45c22e87bc91</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lzma/test-data-added-to-middle.lzma</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xar/test-none-cut-data-from-end-add-random.xar</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/sgi/test-verbatim-add-random-data.sgi</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N03ba3275e6094741aa6132e3eef7104e">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>598843fd9ae4f6844cd27fe52f14631b0418a7d9</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-2048-64-be-dir-with-file.img</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N3794db5bd79a46388d0b697c7fc6cdc5">
+            <ns1:checksumValue>85411b08518c18e103a09197aa2ffa3ba868e770</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N1daa6553071c485699646e10ac5478e0">
+            <ns1:checksumValue>f8c5234dbc7d915ae706d813141cf82d25c7afe9</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/zip/test-add-random-data.zip</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ne751e2a9b7b5466f8f943ea7228b452c">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>48b09b3b2fc98b407bb76b2300ad0edc92b875bc</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lz4/pg6130.txt-data-replaced-in-middle.lz4</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/sgi/test.sgi</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/bzip2/test-add-random-data.bz2</ns1:fileName>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/BSD-2-Clause"/>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ne47d39297501497eaa1165e293a24eb6">
+            <ns1:checksumValue>f80f29a50e2b95ac0a4bcbd08e6588066314dca2</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N0dd0ee97b15c489283a6358230d052cb">
+            <ns1:checksumValue>87f4a3fd91aaa1d26cd91af667911519e53fc040</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nfae0aadd13d34bd58dd0cc30eed06799">
+            <ns1:checksumValue>5f1787b3e9b91ebe3f2c50bf25aa059cd2564ceb</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-old-bin-prepend-random-data.cpio</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nb6bb6bd44d3944cbb4fd52ad9cbfd941">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>68038485f6eca19728a0c1de2e8a9994290abc55</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/squashfs/test.sqsh</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N38ac3962bf204f0bb1df514ed28e34e4">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>9b28fdf0c33b405825dd8166871804677d4bed02</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/bmp/test-cut-data-from-end.bmp</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N19bb2e6ae1a645b48f438c46f6892caf">
+            <ns1:checksumValue>e208bf5aea04b5ae5a66153dba0f07290e7f1c1c</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/LGPL-2.1-only"/>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N2fbe8bcdef3b4f0999e1f79b86b516b1">
+            <ns1:checksumValue>0c825828dcecc1beb9062f904c7be666ec3c5f0e</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/Unpacker.py</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N5845e0023f3747939bd8ceb95a63244b">
+            <ns1:checksumValue>b837da85515bddab3f22c43658ac947918f25ddf</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/jffs2/test-little-cut-data-from-end.jffs2</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/jffs2/test-little-prepend-random-data.jffs2</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-1024-32-be-dir-with-file.img</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N14d202c9e17f4a36bb95aff8db86c75d">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>47b64cacf1051a2c8cbf0d014d8213ba26731d06</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N63615cb921ab4aa2a344bd743d03440c">
+            <ns1:checksumValue>4f15c49d529a2a6fccbcfa335e0c23b0ebeccb15</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xar/README</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N38638b80117440eb86ac0fbe245887d5">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>c82f7eb01c3d91cf83cf0a72a45cc67b172689f2</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N2a810ea7f84949f8bbeaead2c27835dd">
+            <ns1:checksumValue>3374f3a378a53c25310ebc5cc9a62bba189b8049</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lzop/test-add-random-data.lzo</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/jffs2/test-big-cut-data-from-middle.jffs2</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xz/test.xz</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/jffs2/test-little-data-added-to-middle.jffs2</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N754b1971fb3747f7ac3ed4c14f8a0ed7">
+            <ns1:checksumValue>cb60029b1f5f88d93340318564be30d66489dd13</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-4096-64-be-empty-file.img</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N7d1b24f9032f4e42ad9c6d695b133f17">
+            <ns1:checksumValue>df7eb4fa5531ee2b044a004a21b074136de2a051</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/jpeg/test-prepend-random-data.jpg</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-4096-128-be-empty-dir.img</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-4096-32-le-empty-file.img</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N1ce1ac0aad52458ea7615875179add84">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>c8788455b359c1e2df4e8fa54f041335aa236170</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/sgi/test-verbatim-cut-data-from-end-add-random.sgi</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/snappy/test-add-random-data.sz</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/FileContentsComputer.py</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N1428e9fd9ec342369c12ea2bb1771708">
+            <ns1:checksumValue>c96d00777716cbe344d8190f7af864cba93107db</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/ico/test-prepend-random-data.ico</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N324655c1a51345e79ff9e3451ac813b0">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>bebe37c68d15cd3604181fb1492eb6349a7a17db</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/png/Animated_PNG_example_bouncing_beach_ball-cut-data-from-end.png</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/bzip2/test-cut-data-from-middle.bz2</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/snappy/test.sz</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N7debe4077a2b4a51845639021a0df793">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>58474afbd7c2b8164aa135eed04865a0d4cf03eb</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N8ec807d7c1884600b9b87d66718b3cb6">
+            <ns1:checksumValue>c315dc158c0bcc008c9e5244eabd9574aaf6e6b8</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Na13524e5998f4c7eb23a2edbb6ee4b69">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>c9937a5c53da61cf8e6978b30e869b754538f430</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/gif/test-cut-data-from-end.gif</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N9cfba7814c37473fb5901d87c079e346">
+            <ns1:checksumValue>519e235ab52375d3b97c94935de72a512ee36c97</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/bzip2/test-cut-data-from-end.bz2</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N1bfde7c589364bf490c6a077aa5373e9">
+            <ns1:checksumValue>f832cc23b8efb61f9404d7978e4956f505a3d465</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N6ed7db5063de42d493a6c57c1c3d513b">
+            <ns1:checksumValue>dc6de1964618d266c9d2c3f603d5931a91e0a6c1</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/sgi/test-verbatim-data-replaced-in-middle.sgi</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N34c5d14ce68243bf90f3906ab65f7194">
+            <ns1:checksumValue>7cd6a4e5ef92efc8c76d2550f96943d3f2ac069d</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N4d3bc373e52f48d5a1aabc8a73187a6e">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>d8d81eef406d41e659d3e66fddf9bfd6f652b620</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nfac462ed75fd4a009e6edb9df6442551">
+            <ns1:checksumValue>4eaaf8030d535f7fbf34f6fe78caa7f54c4f0fd0</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ndf62f8b6a42048029f2eb9bd41069202">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>af6de16539cb0d620fec84acbedd952916678185</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xar/test-bzip2-add-random-data.xar</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-crc-cut-data-from-middle.cpio</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/zstd/test.zst</ns1:fileName>
+        <ns1:copyrightText>Copyright Apple Inc., 2017
+</ns1:copyrightText>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-8192-256-be-empty-dir.img</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N0d4b2306e1574c4f9a245ed596a8a331">
+            <ns1:checksumValue>d0faab110e9239ebf30179033b6977b8a1a109aa</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/sgi/test-verbatim-prepend-random-data.sgi</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N06dfc155e7744c218428f6109d5e51d6">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>c83fede925d20d0438bf303e1b29025ab1363c94</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-4096-128-le-empty-file.img</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N3a15fc5a18e7455c90084079c9b6e1d5">
+            <ns1:checksumValue>14749bb93c605945fc30872a2ff6bda51dfe7c43</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/GPL-2.0-only"/>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-8192-256-be-dir-with-file.img</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/bmp/test-prepend-random-data.bmp</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/jffs2/test-little-cut-data-from-middle.jffs2</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/gzip/test.jpg-add-random-data.gz</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N4fab37a6e2694539aefb6d5457cbfa72">
+            <ns1:checksumValue>e47b758c4c0bc43738bd0be0e9e3ba0f6daf7c0c</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N7e583cbd011848c396349bf10c829f79">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>2bcac60f80347ab62047d212ea4e4aeb8c8b7497</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nc8bc66a17d334d6ca2b64a10e9c4fab8">
+            <ns1:checksumValue>4024517347a89acc6646e9266c946b4a61cbe531</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N5f17796aa9fb401b9e356a0979b17201">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>1e2bee73db4f2369068a05ccc4c7b1fe7cf17b93</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/performance-test/bang-scanner/loop-scan.sh</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/shell.nix</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N1084c3e38bc8490dbcd1815d81158e2e">
+            <ns1:checksumValue>3a40b0972d1c9a438bcd4ecd775ff9bc2107b749</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N7c4f46cea65a4137b0e672c3e6882ad1">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>59ae7f5d0fc5179de84d98f0f1f98e51844ed22f</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/srec/srec-wrong.txt</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N6ea2fb2088b64cd29edd294ee4d3562c">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>3290199c18b48dfef99e544706955ec7c97fcfc4</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nbd4cd0baec8b4cf0822f2e71fcc6d109">
+            <ns1:checksumValue>cf76e8fdeb5b4ed570ebf86b7b60911e08ffa10a</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/gzip/test.jpg.gz</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/Dockerfile</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/tar/test-add-random-data.tar</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/zip/test-cut-data-from-end.zip</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N9439c48c74954fafa9516adfeca8a50a">
+            <ns1:checksumValue>f9b92b152a0919a601c93e7a5ca3397877ff3c5b</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-1024-32-be-empty-file.img</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/TestUnpackers.py</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/performance-test/bang-scanner/bang.config</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-4096-32-le-dir-with-file.img</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/gzip/test.jpg-cut-data-from-end-add-random.gz</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N79db3367ccaf44be9f31f781e57f09bf">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>f6438bb669ce1471f77c412bdcb466e3284a63fa</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xar/test-bzip2-cut-data-from-end.xar</ns1:fileName>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Unlicense"/>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-4096-128-le-empty-dir.img</ns1:fileName>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Artistic-1.0"/>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/gif/test-add-random-data.gif</ns1:fileName>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N55edade6478d4520ba4afa02b1462768">
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/gust-font-1.0.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/gust-font-1.0.yml
+</ns1:extractedText>
+            <ns1:licenseId>LicenseRef-scancode-gust-font-1.0</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/jffs2/test-little.jffs2</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N4ff930b15752403abb053c6d09f51e55">
+            <ns1:checksumValue>607ec78b341183b2bc1df2d55571990564186d1f</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/bzip2/test-data-replaced-in-middle.bz2</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/png/test-cut-data-from-end.png</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-1024-32-le-dir-with-file.img</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/tar/test-cut-data-from-end-add-random.tar</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N3be0cfb5ad0243e1809830557d15ae4d">
+            <ns1:checksumValue>ea0835909904d1c97fe967a19d27801a786d0e52</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N301d832a0e0e410c9b56814f6daae6cd">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>4889add7edbbba687ecad3928113e0921d66a301</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nc47df629d1544a44b6143ceaa6818aa6">
+            <ns1:checksumValue>287fa720c72d650f8c4230ba65ab455dc8607277</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nf9ca8a31ccef441c8dce225b29217e2c">
+            <ns1:checksumValue>cc1a6086daaab131299d944b16bca606ed5e44d7</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/zip/test-data-replaced-in-middle.zip</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/sgi/test-data-added-to-middle.sgi</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N45f4d7d4b939403aa96877188ce37735">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>ce2e353038a3c92ade75537c3b08c5c27b7c3084</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/doc/testing.md</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xz/test-prepend-random-data.xz</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N352e13b38963405eb45a02c2f3436aa1">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>24bf226f155eb357dd7d30fee2358f302067855f</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/ico/test-add-random-data.ico</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lzip/test-cut-data-from-end.lz</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/png/Animated_PNG_example_bouncing_beach_ball-add-random-data.png</ns1:fileName>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N1ad6d5b6788441b08a2b0af6c2d6310c">
+            <ns1:licenseId>LicenseRef-scancode-gust-font-1.0</ns1:licenseId>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/gust-font-1.0.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/gust-font-1.0.yml
+</rdfs:comment>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/7z/test-add-random-data.7z</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nce946f8c982c474695d50917a2cd1192">
+            <ns1:checksumValue>8a0c6139541fe67e52ee6cd9e0db68ca33f7fa71</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/WTFPL"/>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Na037d8264e4b4173a77952da1eb1f191">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>5a35485c2adf3074535bb9d5b72317cac1a1492d</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N42330cd66ccd471fb666d94fbdaa39e7">
+            <ns1:checksumValue>8608f02cbed41cf71b043d4fc122dbe3de3165b3</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N218b6298fc87483f9330f73c5de0809a">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>7d9f64afaa91bb4a986cd18c431b896d3b308849</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N17188f68151946db8382ac81fe816e52">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/public-domain.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/public-domain.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-public-domain</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-old-add-random-data.cpio</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ne8da82b5a3224d32b99a4e3b20f63db8">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>6223be8bdfa1a7187e7c98b500378a9b07052ada</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N556e182c84fa4b75b943cd5c8c8b28fa">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>31ed353d60c9cfa06cee30e996a04fba9a57edf7</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lzop/test-cut-data-from-middle.lzo</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/png/Animated_PNG_example_bouncing_beach_ball-prepend-random-data.png</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nf5a29a18123d4b339ae3a5f73c994029">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>8b5efea9540bd44fc362205d3aef624dc2d0148b</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xar/test-gzip.xar</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nc05c6eb4024f4df2b98eac8a1fed7668">
+            <ns1:checksumValue>8b267577d04c481683cb7fc874684286bb8275e0</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N76763aa1ee4e490f8e3da6de87d8db40">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>68f476f70f05c9532601bec150dfa095e42478ba</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N2e578c196ab242b8951d11a6accc07ca">
+            <ns1:checksumValue>1bca19a86293522ae8edb98f4efa879c458ebe03</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nf9118a282616413d9c1cb001f764a4a1">
+            <ns1:checksumValue>6ef490abbfffc0598ffe5cfd46c72ff0a0df3e6d</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xar/test-none.xar</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-old-bin.cpio</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/ar/test-cut-data-from-middle.ar</ns1:fileName>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/LGPL-2.0-or-later"/>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/simg/zero-one.img</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nd0fdf4eafe27453fa6c68974e50f3388">
+            <ns1:checksumValue>2dacf6d415db11070e6c8e8197d9d6505ebfeeda</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N3a95fa68eff34764b6e3811feba2a24f">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>398af53108497d9af2c8cfbf1c7d85cc4f1df0bf</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-new.cpio</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N864ce2953827461d99d40fb636ba12bd">
+            <ns1:checksumValue>a76b58b75b46f6a8344ac028b700645b07814f6c</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nca868218f80c491fbb755943f6259388">
+            <ns1:checksumValue>9eb8d4805e6ff5045b0d55227093ddb4295333cb</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/pnm/test-cut-data-from-middle.pnm</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-2048-64-be-empty-file.img</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ne611bd7822fb47fc8d92cb37729123d5">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>997cbc3f320ba86eed4eac74dc1dce306729349a</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lzma/test.lzma</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N412e7ff4b5b94d3e91f910e0ce00c94d">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>28d39824bfec4188e70c2f6584bb129c385602e9</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xar/test-gzip-prepend-random-data.xar</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N9c18bd377bd34e5384a060b2e71021a1">
+            <ns1:checksumValue>a95ac1ecd847a79936ed4299ff9425ce7976f4ed</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N2a6201c05c3c4e40a2c74f410d196b03">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>652dd2a1d8102e3cfc891b2564ddc567a60cdfb7</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/png/Animated_PNG_example_bouncing_beach_ball-data-replaced-in-middle.png</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-4096-64-be-empty-dir.img</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ncaa2f3e7f07f4a588d875587ac402d01">
+            <ns1:checksumValue>cfceeed32276448960c38ccc9ed54c3d535c10e4</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/pnm/test-data-added-to-middle.pnm</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Na42e329e3a324c65b4a36ca12324b625">
+            <ns1:checksumValue>8acb88740f5feff64d62f055f8077abf34ae4d56</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-2048-64-be-empty-dir.img</ns1:fileName>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/CC-BY-2.0"/>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xz/test-data-added-to-middle.xz</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lz4/pg6130.txt-cut-data-from-middle.lz4</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/bangshell</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-4096-64-le-dir-with-file.img</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/jffs2/test-big-prepend-random-data.jffs2</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N02bfb7b8484a4844a099b5383f3bd40a">
+            <ns1:checksumValue>0d481001d2c59f517ad633807b9d4c5d7a2f3c07</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N084c60623c0c4aa4a2cc21a11ac89690">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>d86a5f7f89a3c3b67a7eb73b35a0bc466a2f12a3</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/jffs2/test-little-add-random-data.jffs2</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N73ab8ce59e8b4e3d837829e1279bd431">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>1a7a948669a65f204e473138d2dd0a0b9225743c</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MPL-1.0"/>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/OpenSSL"/>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N39b1629adf594b26aba09d1491be9019">
+            <ns1:checksumValue>c27b641df877c606ecfc3e8c4b7cc22cd6f2c13f</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N929742e7a92340de923a83759f0fd0fb">
+            <ns1:checksumValue>2ee21bb85337a6be71bfd0d08dc4cdac1be82d17</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ne14d04d27cfb40e5946b4a484ff6c70c">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>4695e5a9e679e2478d89db6081d5014903bd50cd</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/bangsignatures.py</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/zstd/test-cut-data-from-end.zst</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/zip/test-data-added-to-middle.zip</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nfe61dc0d6818456ba2cc297e1eb59a2e">
+            <ns1:checksumValue>e54e8fd4f4bcb4bc0583a542fa82b50f61c4b82a</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nc160dee60f214352a505cfe3c6a35394">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>d4cbc92daa214d1b4fc0f6ef40678a76c952da4e</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-new-data-added-to-middle.cpio</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N85b104b04d904c0fb20cb80cbb7e0676">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>1fdec085f12c8309c5805c956a90a7accaf39204</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/doc/fileformats/png.md</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Neb45d50e54a04f67b5e51737c5ca4947">
+            <ns1:checksumValue>1ea2bf204634ff83c785387993905cd3976546b9</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/gif/test.gif</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ne5200db6e52b4a0294bfddbb3550bbd7">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>57f4ee538e448d66b1a048634b024f686dd46da2</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/doc/bang-design.md</ns1:fileName>
+        <ns1:copyrightText>Copyright 2019 - Armijn Hemel
+</ns1:copyrightText>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N485f8028be2d4f29881425d626ad83bf">
+            <ns1:licenseId>LicenseRef-scancode-unknown</ns1:licenseId>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</rdfs:comment>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/7z/test.7z</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/FileResult.py</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-new-cut-data-from-middle.cpio</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lzip/test-data-replaced-in-middle.lz</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/jpeg/test-cut-data-from-end-add-random.jpg</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N96d4c5c2d8f048a38e66f687592e120a">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>26b837039dc37d9427354a955b6df7c2a84dfa2a</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N792e0e602a3743e49ebe8d34c023fdd3">
+            <ns1:checksumValue>c266043a0102cdbce89b7c180a92937a5a653d2a</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lzip/test-cut-data-from-end-add-random.lz</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nc0c5cb8848b747729636c11310bbd1d4">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>68f83fb54a6f9bf3ae7aad04af1729e78bce60dc</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ned0be0f64e784fd2ad598ef611f1430e">
+            <ns1:checksumValue>7833ea76fb9efa66b79a89eaec208fd17007cdcc</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/tar/test-data-added-to-middle.tar</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N3fa89502a8a640caa1fcd616d3f904df">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>377ad459a8f27ec8f6b50ed281529f629a7b3e60</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/sgi/test-data-replaced-in-middle.sgi</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nda2f8452eaaf45fc9229a55cf1eb51dd">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>2537b16440c2996f744d55380f997976bf1ab727</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:copyrightText>Copyright 2012 Nut &amp; Bolt
+Copyright 2011 Twitter, Inc
+</ns1:copyrightText>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nb3c6f357758a436abe20237eff5c493c">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>f744688c9694e619a069ce4c342c64477b93e806</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ncf134a99719b431c87dbb486fe82905e">
+            <ns1:checksumValue>017b44a5774b77f980d20977c39e1ba748bc13b8</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xz/test-cut-data-from-middle.xz</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N72b71d83625d41498107d4a4fc4ae0b2">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>d3c042c8d73a67dde56be64cc3ed7b1e7076d3ac</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N6027154638144f3c93798c0c25700fd3">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>4bc47eb51dc6831fd094b39d7482ea17732741aa</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N601cf2d0a6914a999a65039e66d8be58">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>957df40c52bd45d4eaf88932dd7e1af6d46dfd41</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N3f5d4b3545b943dca3c262c6a7182716">
+            <ns1:checksumValue>e3f76d5b24006994ed33b3b60695501789403521</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N13871bf99d834b3b94cf08caf4bd5467">
+            <ns1:checksumValue>ffd33b8e470a6f8a100e2e78024c0482cc57c063</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/gif/test-cut-data-from-end-add-random.gif</ns1:fileName>
+        <ns1:copyrightText>Copyright (c) 2010-2015 Craig Heffner
+Copyright 2016, The Android Open Source Project
+</ns1:copyrightText>
+        <ns1:fileName>./binaryanalysis-ng/src/bangprocesslog.py</ns1:fileName>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N0b551436c8c24462a317639bdea9c8f8">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/public-domain.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/public-domain.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-public-domain</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xar/test-bzip2.xar</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ne0e59c03eeb743868970a09ea6f1c4d0">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>cd3140ebbbada10c54a02ba219eaf0b41c01ac30</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nf7359adfdfb5402c85c77ef7c85044dc">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>f14185d4bc1334c41a07fdf9abc8d3cb549584b7</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N90cf41641ed04cf6acf9f95da0914310">
+            <ns1:checksumValue>a2e6fd2490770fee2596e23ed56a9ff0b2a8f5fe</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N78c112a5df354c25a082cbcda1b4ff3d">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>b78823f02c714dfd39f7b51906d0c8fe8b32bc94</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/7z/test-cut-data-from-end-add-random.7z</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/simg/README</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lzma/test-add-random-data.lzma</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N6bac0688f14d4a4787ad12eca198381e">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>129db10593bf09d9fb06052aae242c36c100f131</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/jpeg/test-data-added-to-middle.jpg</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nbfc8eb00dff5439e8a23d1a79cb7f3b5">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>842d9180cd44c47a7b1137584b697e12df128fea</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-1024-32-be-empty-dir.img</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nb22a9d80b1a3429aaa1787723ecccec4">
+            <ns1:checksumValue>2319ed62170ff8c5b19d23c6ff60777a18ed7688</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N077b23ed747a4b4db508729f2591a5e7">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>ec2a81ff7b336769577793773ad598a0dd286cf9</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Artistic-2.0"/>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/gimpbrush/test-cut-data-from-end.gbr</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N930bda72676040ffa985273d68272ab2">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>4d2efd475b7af23c83340f1657a9c16bf119c6e8</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N612ac57aea0e407d918df0461a73fc39">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>ed69dd82fb971036e1a1b74df5299ba8ca870f74</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N3f4d8bfde7b446f09e6481af4f4ef858">
+            <ns1:checksumValue>44d74828be92f9287d9d276173ba879baded70c8</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-8192-256-le-empty-dir.img</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N156e6af15ef149d5b126f691618d5b7e">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>e32a69883553716acef4f44b6062145fa05707e4</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N01e963f8ab864e0c9185c1240b3214eb">
+            <ns1:checksumValue>bde2888104e5fd242f3e577f1c20e0293e917b92</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/sgi/test-verbatim-cut-data-from-end.sgi</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/gimpbrush/test-cut-data-from-end-add-random.gbr</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nf73a14a41a8b459fae908d86f370809d">
+            <ns1:checksumValue>8152dbc0c7d02cfbd00a9b64380520cf84b89dbe</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Neeb465a31ed6469783e5f8e3df5d50c8">
+            <ns1:checksumValue>b955dc389b649cd1d651d514fea606384050ea5f</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-1024-32-le-empty-dir.img</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Na2081da3d91f4524b7ad69f37c581587">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>cead3d874aae25dce8b564b3d4ae1df65dd22171</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nb7d44c8492be46b49e0ed9aa35949661">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>bd539e4ca7d004e36bd60088c0bc9667f008de0d</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ncef5aa36048543eab43bd0cbfc3c3724">
+            <ns1:checksumValue>ebfa61cd226b918fd494fb12ebb031a5c0cfd58c</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-4096-32-le-empty-dir.img</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N98f8aa71303349ff8fa79fead1141973">
+            <ns1:checksumValue>9e4eeae089546d5f90da530a77b3985999a17b77</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N4c44f4413b9542dc967a3f9b76cfc6c9">
+            <ns1:checksumValue>7603e19868042a99b1b575c50f01471c113d6b49</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/jffs2/test-little-data-replaced-in-middle.jffs2</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N6dfaad433b0b4622b679809ca750f917">
+            <ns1:checksumValue>447ffbc0de73c1787aa534aed2974b1ab698e069</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-4096-128-be-empty-file.img</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/bmp/test-data-replaced-in-middle.bmp</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ne73d1ef61d8646ab81e08be79074c242">
+            <ns1:checksumValue>8e86a0939ee3b31e1d0eb21f881a4eb03bb7edd3</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/ico/test-cut-data-from-end.ico</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xz/test-cut-data-from-end.xz</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/rzip/test-cut-data-from-end-add-random.rz</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/snappy/test-data-added-to-middle.sz</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nb8491f424c1d4a9a88354e20b86928c8">
+            <ns1:checksumValue>04220b9075aae6ace1f19331ebdfd9c5db5db2d2</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/INSTALL.fedora</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/TestFileResult.py</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/scripts/generatetests.py</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/snappy/test-prepend-random-data.sz</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N9b55cf2ac53a4a119d3124400b16a0fd">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>6ccfa77bf54f059f80fa8ab1ed4e947d1b18555e</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N0672ba3863cd4f4b92a945eb4289d616">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>2cd808078981d5fdab179eadceeecea7f1d1bec9</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/BSD-3-Clause"/>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nd90edf1a7c2740338c56e1d30459db4d">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>ca4fd7c5b0512321aaa7f5d5d85274d8cb1dee38</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/png/test-add-random-data.png</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nbbc0ec13dcd945bfb73daafce8da0bc3">
+            <ns1:checksumValue>2cbf859b77597d3e84a4c87b10d06626540c9f03</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-old-cut-data-from-end-add-random.cpio</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xar/test-gzip-data-replaced-in-middle.xar</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N438d0c489c2c43419c23a8dfa1d42107">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>b9d4fd628e8b1bdf6c05f8d791aee6b37001aea7</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/jpeg/test-data-replaced-in-middle.jpg</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nd23daf3488c848c485155fb3c45847d5">
+            <ns1:checksumValue>6eb3d08b433def52c0b6ad6e14172c0670ad7cd1</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lzop/test-data-added-to-middle.lzo</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lzop/test-prepend-random-data.lzo</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N2e2ec119536b476481a97b55b7de021d">
+            <ns1:checksumValue>f07f9d372197093d099bdd4a9b8c95455db54295</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N6a254d755547423babbb71d726757599">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>3996e3752c8d2359a4ff59e12d2374700621b1e0</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/bangfilesystems.py</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N4a8e0ecde51b4023ae7f7fd6a88d71e6">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>bbaf9beef9f99fc574a861862e26494206debb7f</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N7c80d00553f14b6894a5d91895f2842a">
+            <ns1:licenseId>LicenseRef-scancode-unknown</ns1:licenseId>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</rdfs:comment>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N1f6dc2d401a44874a723f8ee1923b172">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>e9a5a6d3cbff1205b945f0f1978e960f2f0cff80</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-old-cut-data-from-middle.cpio</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/iso9660/test.iso</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ne9ee70ad32d44aa3a6d5854904c6342d">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>ad5368bd4d1ff3e66105f552c646cd77f330af69</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N6154cf95e2154346a7a9c37d1c7cd5f5">
+            <ns1:checksumValue>1f56297e829a6a4c0bb2f5006fcf90c9cc848331</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nba659621df0149eaa7e023453cce2b22">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>4d3bfcc628a815e65309cbea7d9303a99eb533ab</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-crc.cpio</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nff240a29fe6c4798b4f2ee1a77d034f3">
+            <ns1:checksumValue>d55982f79ec1e56bb28b1aa4ed3d6011bbcee450</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N4ea109abc9fa474c9c06028c2f67afb4">
+            <ns1:checksumValue>1a8b4f87e4097148967a34f746de3303cab05257</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/ar/test-cut-data-from-end.ar</ns1:fileName>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Nd33358e4fee647489184ec94a0a0bdcb">
+            <ns1:licenseId>LicenseRef-scancode-gust-font-1.0</ns1:licenseId>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/gust-font-1.0.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/gust-font-1.0.yml
+</ns1:extractedText>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/gzip/test.jpg-data-replaced-in-middle.gz</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lzop/test-cut-data-from-end-add-random.lzo</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/snappy/test-data-replaced-in-middle.sz</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N94b04af8c63643f9b840a6428753bb85">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>152d60ef216bb114f19b3a4567bedfa198fd9ac1</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/bzip2/test.bz2</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/png/test-data-replaced-in-middle.png</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lzop/test-cut-data-from-end.lzo</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N0a307f115ab44ac3bb524388118049a4">
+            <ns1:checksumValue>37c97b7f51cdcaae3f5cfe78537e90e6536bfa78</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/README.md</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lzip/test-data-added-to-middle.lz</ns1:fileName>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/jpeg/test.jpg</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/nix/sources.nix</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/zstd/test-cut-data-from-middle.zst</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N9176f5588660405fb838e32b36f57c96">
+            <ns1:checksumValue>6f1b468dea4f84300d4b957744aac9cb91041c08</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/7z/test-cut-data-from-end.7z</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nbef690001a20495fbaf7d2fc3e35dee2">
+            <ns1:checksumValue>e026f18a9abab1971dc08ac9284f6469b8966e9a</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/bangandroid.py</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/gzip/test.jpg-data-added-to-middle.gz</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N17953420133c4d52a63e5f29aef655f7">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>520fb8dcd2f5b9d7250fa607fe78acd8b64b1760</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/sgi/test-cut-data-from-end.sgi</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nf8d16eac0fe7429dae19c43cf524ed24">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>74b0acfae1fadaa991acdc8d5891e2b100b0d080</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/pnm/test-data-replaced-in-middle.pnm</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lzma/test-cut-data-from-middle.lzma</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ne61d970857d84b07aeea5b343efd0466">
+            <ns1:checksumValue>b68b38125ddb60cace99943b294a56f95c5acc09</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/gimpbrush/test-add-random-data.gbr</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lzop/test.lzo</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/jffs2/test-little-cut-data-from-end-add-random.jffs2</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xar/test-gzip-cut-data-from-end.xar</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nc150defca6354070a6ec5a4ddb5334cb">
+            <ns1:checksumValue>efba65b7e9295f20aa05b2111334d06e8079cce8</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N506a14fd66ce4a40ab25ea6e6dbe312b">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>436bfddf69dd1f2e4c2e4f22ab206b3b03023731</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nbb7dc5740e90400ea926d003aa24392f">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>6ae1ecb0442f3c073dad5bf0a430c854e3f6784b</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nff7182f4e83f456fbf1f5cf0a9ddbdf8">
+            <ns1:checksumValue>51aa2d73a8c3a8e9f9d96b0bf51ea2c5cfafd04a</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-8192-256-le-empty-file.img</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nb366e14d41c74d8caf86c6640762a552">
+            <ns1:checksumValue>9df22b106881775fe02d6fe31fa8d8e5e7261afe</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-old-bin-cut-data-from-end-add-random.cpio</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/png/test-cut-data-from-end-add-random.png</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/reporter/jsonreport.py</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N11934c5b84ca479aacedf26809c63518">
+            <ns1:checksumValue>95f2b853f8b0d52a81f6b9ca8c1fed089cdacd52</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lz4/pg6130.txt-prepend-random-data.lz4</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-crc-add-random-data.cpio</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N3e847c1ef14c40afbf3a6e68bb0a164f">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>f38740f4a54847c1fe098b35b8ae474632a69b8d</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/bmp/test-add-random-data.bmp</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/rzip/test-cut-data-from-end.rz</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N97593babc51e4dd2a8fc65a2e7aa6741">
+            <ns1:checksumValue>1a743a89b137d07b9339b2e0a0c4b24ace3c9a1a</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/CC-BY-SA-4.0"/>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lz4/pg6130.txt-data-added-to-middle.lz4</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/iso9660/test-data-added-to-middle.iso</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/doc/labels.md</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nef1a12c5dd73418fb28856bcae531fef">
+            <ns1:checksumValue>dee4a434b06e9cf17a70f1f9b842dd3dac13dcc8</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-4096-128-be-dir-with-file.img</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N8766c1d089ad4d15b996a6ae1f1c9370">
+            <ns1:checksumValue>e4d7ec93af458f4e205c2e18a3d06c8f3bf29dba</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nb7800aa708a74f0c8d64ffecf71ff2e1">
+            <ns1:checksumValue>e4f2d4884341c9c1a94d0ae3dd035885f9a22efd</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N7890e3f910034429a2738752aff143c1">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>4b08c55cb5aa1f0425bf617a226e6e8d5786e802</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ne5258cbb89d14fee8f8ed196943a444b">
+            <ns1:checksumValue>5a73892d84d1ef44dcb7daabff42d131ad55f980</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N194941edab194b03ad6825454699e4d5">
+            <ns1:checksumValue>91c220394e6a7aa39c72e9e3a9a64d3d7e214caf</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xar/test-bzip2-cut-data-from-middle.xar</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N02a98ff8c8664a56bc454008045b9f07">
+            <ns1:checksumValue>c563a56487241988158d290489fb183a5185c1b7</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/gimpbrush/test-cut-data-from-middle.gbr</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nb37f07b3a38a4bf39cc7d1f6f8c75f81">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>9e8a6dd824f4e4da85564bc14a7410831d47f44d</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N4160830800724237a6842a48c68afdae">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>81c5891fc372192bbae56029925043646d41f296</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lz4/pg6130.txt-add-random-data.lz4</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/bangunpack.py</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/ScanJob.py</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N8dfe9eb3139d4a6b8cb08af1d6e1b6e7">
+            <ns1:checksumValue>3b3af7e4df7de278979b8656031842ef8fe4fc0d</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lz4/pg6130.txt-cut-data-from-end-add-random.lz4</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/pnm/test.pnm</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N263b644e1ed14113bcea96011ad0d77e">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>06275e7976cbef13136ceafbd27245d494645043</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/gimpbrush/test-prepend-random-data.gbr</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N7070a25702834428af9166b517b84147">
+            <ns1:checksumValue>48970906cf90786e8fef72b6f238058221031163</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/ico/test-png.ico</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N4609005e7aea4ff7a0ae0515cc997d1c">
+            <ns1:checksumValue>d8185aee0285d9485fbdb453594051d3db1ab9bb</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nae23196fcf544529bc3d836f835f1816">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>4298de562628bd4d35ccc2f2f64c431197d2b999</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nab7d3cc2421a4a9a8e241d785ad6462e">
+            <ns1:checksumValue>757bff89668f3d4b270735bc2f9b1e6a4aeccbd6</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/sgi/test-cut-data-from-end-add-random.sgi</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/sgi/test-verbatim-cut-data-from-middle.sgi</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N1f1085ac5c4740e2b9e6be1334d98e64">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>b0afeb51c4ebbb9e7886851f432dc1f75050dd4a</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-crc-cut-data-from-end.cpio</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N15226e3eea934c98820c0ed87728932e">
+            <ns1:checksumValue>dfc72828e6fb119147f86722e91923071740b202</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/tar/test-cut-data-from-middle.tar</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/bangtext.py</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N921eb7172c9442b28c9d3e4427901444">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>d060fde21a6160608058c0ba3db5f749b8503d7a</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N19f439352839471a8b688d1d698862be">
+            <ns1:checksumValue>0df4323f6f3364835d38fef41fc87471db43fd91</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N8d18419c23084b4db61c3e24c3025a01">
+            <ns1:checksumValue>7ada48660f06ec4e0abd238d89144907dc5e2562</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-4096-32-be-empty-file.img</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/rzip/test-data-replaced-in-middle.rz</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N9483364901504523ad0ef680f988b16d">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>38b31a26cab7b8da7f1af07d366835f32d2374ba</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Na183f17ef3a44907aa1e04b1b8d96235">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>f6c0572714b490b10143a7f39ede8397d79cd648</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N5c633bd7827a4eecae194c137917522c">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>a781570d808ec41c7b8819d21fc356f3d8a98c95</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N31218bad01a948eab94089e515a9b2b4">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>baa452beb4a1574558877af214150af546914d72</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/a/dhcpv6.sh</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/zip/test-prepend-random-data.zip</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nc5b1ca11271141a2a89f2001d31e4306">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>9f9705aa3e3f1c15c97175218581b273cc775783</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nd4ff954ace42438d9c67268907b746b9">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>6a75df93a710edd481bb936dbd39e2b7039de6d9</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nc96db549fdd347769ce907a4fdfa1b8b">
+            <ns1:checksumValue>a65c616210fb7ab71006bcbdbeada1eb3c18ca76</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/squashfs/test-cut-data-from-middle.sqsh</ns1:fileName>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Nd5528c3529c642959300f5bbf446be00">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N6abbbfb4a52f477e813571104b017188">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>fa1d3464e3b550a883db2f9308d614b87ff1a119</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-old-bin-add-random-data.cpio</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nac219a99743a4b83829a671d9f03eda3">
+            <ns1:checksumValue>09e13cfeb36c0fe5fbf83e4ac030b9023282b4ca</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/7z/test-prepend-random-data.7z</ns1:fileName>
+        <ns1:copyrightText>(c) 1993
+(c) 1997-2006
+(c) 2006-2007 CDRKIT
+</ns1:copyrightText>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/ext2/test.ext2</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/gif/test-prepend-random-data.gif</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N669d24fd1baf4ad8949974e05370f523">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>6adc14d5d685aadc6f2f807eea3ec6fb2e1cbfe5</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N6978beebeff6427cb2383c7398eebc66">
+            <ns1:checksumValue>fb84fc315495b344fca94399da63acd093e3e6eb</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/sgi/test-verbatim-data-added-to-middle.sgi</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nfaa9fdbb4a454014a23208887fb9b9d0">
+            <ns1:checksumValue>06e07c95c1bf818f9d4af1ed669b00175bb9dd92</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N1b58f5c646b74d82830fa64e2345f377">
+            <ns1:checksumValue>8e1fb6ba8dc54c8c5e19387549dff6d8ff183cf1</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xar/test-none-data-added-to-middle.xar</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N59fe025e6265488088cdde31f4684a37">
+            <ns1:checksumValue>12cbd1adf284624417e8d9b2da4178b3d45eecda</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N93ac97ac4dd24b60897fbad16df66b9a">
+            <ns1:checksumValue>33556f3ee969f46e1c820468a3758dc4508e99a4</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nf44f4688eeb1453d9022cff05c3fccee">
+            <ns1:checksumValue>f69375c01ae5d7c40e3491fba9e9d2f871bb5264</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N6fb2d8b15ada485fa5b03c8e8c4d7615">
+            <ns1:checksumValue>d056a41caae6799c1c439e3e5cdfc44969e66cfa</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N8fe8215770ab412993335bdf84a47c0f">
+            <ns1:checksumValue>2526ec910b5c541d80a32e115205a6303bcf55f1</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nf9907fa446024fe6855e5be7efdd8165">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>b0a996a68be9de0c1eb97efbb25609d0551e6b19</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N18ca085c36dd49a3859e67625a8c8876">
+            <ns1:checksumValue>21af0f861b7d0a5d2520d28cd1a0002c85c0fa16</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/tar/test-data-replaced-in-middle.tar</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lzma/test-cut-data-from-end-add-random.lzma</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/sgi/test-add-random-data.sgi</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/ar/test-cut-data-from-end-add-random.ar</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/iso9660/test-cut-data-from-middle.iso</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N61c67a8e06a14bbd936fd3d54a74d9ac">
+            <ns1:checksumValue>4963f74ff3f43094fd9a259003a095d154c86cad</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/fat/test.fat</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nc083df22bd394a4da5a1ea4ad1b7568e">
+            <ns1:checksumValue>d64d432c17998987e0907a76609e71c636534f84</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N7f18dd35a48941d4ada7be81e57680d1">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>099289cdca14332048c66e79a4a00224af644a41</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/png/Animated_PNG_example_bouncing_beach_ball-cut-data-from-middle.png</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N3c1af892cebd4047ae993ec3ddaf1c0a">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>e71c87fb7c7fcdb5b8ad8d505b0d73df33a932ed</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/bangscanneroptions.py</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-old-cut-data-from-end.cpio</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N1be5497202f34b2ab15a58e51bab4435">
+            <ns1:checksumValue>3dbc9ba253a018b527e152321208610cc272da4b</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N5d31ba3d667e41d2a8ddbb497bfb77f7">
+            <ns1:checksumValue>c38b0a0e5d01742c0506a7f22f3db5d4c7b46863</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/tar/tar-abs.tar</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/png/test.png</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N0cafdf7153524a099318c4d2d8c68fb8">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>518dc726e77278fc4080b3123b98c1ef9ffb5b75</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/jffs2/test-big.jffs2</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/bmp/test-cut-data-from-end-add-random.bmp</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/doc/fileformats/zip.md</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ne273c62ff513454daebae1e64ff6534f">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>191769169eb3dc908d3091546ec32d8f940de638</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/iso9660/test-prepend-random-data.iso</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nab160f091e644114aa3c9e8bd9ac9d29">
+            <ns1:checksumValue>787c630c3e30ff4f24a2159e7439d5f3963660e1</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/gimpbrush/test.gbr</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/nix/sources.json</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/banglogging.py</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/bmp/test.bmp</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/reporter/elasticsearchreport.py</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nc0bef546c20946e29ecd82dc0570e48d">
+            <ns1:checksumValue>238990a5532662d390a685264f4f686565d69fc5</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MPL-2.0"/>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N61fe3acac6be4481aff4f829a584170f">
+            <ns1:checksumValue>7c60ed8c525945497b803cf1abca29027d782cc1</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/GPL-1.0-only"/>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ncfeb29c44cab44cb9de4db23d72122e2">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>786a7cb3bece19c86551ec977b65a4315201414c</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-old-bin-data-replaced-in-middle.cpio</ns1:fileName>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Nbc97f988bbd34c919a8d169b1e804dd3">
+            <ns1:licenseId>LicenseRef-scancode-unknown</ns1:licenseId>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</ns1:extractedText>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Necfa5b5f038c4f788fc2dbf7a6471e8c">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>5fb8c7045caf56c799c94d24839b791490ffcf36</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/README</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N27b68ad9a7f941c4971574c0320e6aac">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>92f4c7e6fb83a0b0852e5d68e22fc7a812c8d359</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N9e9563d1709d43ea81192d10b9a7a844">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>afa336c643637887284f535b67e4cbaa0a68217b</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nff44976cd6044782859c91dbdc3897a8">
+            <ns1:checksumValue>b711c7e315ed2162d9f255eef582e59bea800b22</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/gimpbrush/test-data-replaced-in-middle.gbr</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lzma/test-cut-data-from-end.lzma</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N10921b65b67b44c69f49b9c043083024">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>cad4044aa468ab927875372966689cdb714db119</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N27103ee36e9d4e4394b7ea41dea5926b">
+            <ns1:checksumValue>9673c98dd298528ba3f19caf79acc13c9b7ad9dd</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/README</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nc0b8c331fdf34bb2a6d4a59da76af11a">
+            <ns1:checksumValue>7d1646a65cbebf64b4e22130e008d72e4a6f0828</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N84be68da172149b9a86de4e725d925dd">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>c1b746f33896a3b1f53ec4adbefb4a3d1e7400ce</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/bang-scanner</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nd3c10d2cdf034b51894ce0fbbc0dbbdd">
+            <ns1:checksumValue>1683da64df83ef594cc532a8695abf3c155da15a</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/snappy/test-cut-data-from-end-add-random.sz</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ne270a2a5e5984572a494d4b2da012fd6">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>c915574dd3392f0c1c33c61461ddd2d7bd6cabb4</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N1fef3e9437624c01b4c414bdfa876b1a">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>73e0879fd065e37480a3166c5daed12f20e23ee4</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ne9e8a4627042426d974d08cc80411204">
+            <ns1:checksumValue>7aab8c6382a0e6206e6e19a6bc169d029530e18d</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N98009eebb5b943d0b12cf3973f49503a">
+            <ns1:checksumValue>b35ea9dbcf3cc82166e7f758939e6715d9b7fb8e</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N661f0158475e4228a870a054e8e958e0">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>2569ad445880072821ad14e5507ea26bdaf19e0d</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lz4/pg6130.txt.lz4</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N83553abab0e54f1d8f946f9d990342cc">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>56def9b68b79a12229486f82556f7e4a248ba880</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/CC-BY-SA-2.0"/>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lzip/test-add-random-data.lz</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nd21cfcd9494c49458e11f3044cf7b73a">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>c30179d43386160625a349e84f051b6dc8582cf9</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-new-cut-data-from-end-add-random.cpio</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/jpeg/test-add-random-data.jpg</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N1c405916d2414d77908436f0e36d6920">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>553b92ce162ee31b621ec32e50a83638edfb182d</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N99f70b759910420684a2f70849336f36">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>01814b82ec3bb2b322371b2551a463e8eadfff42</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N8b573746c969420daab46fa4bdf92156">
+            <ns1:checksumValue>da10b457558b6cf6f1943c05a2924533db0b1ac8</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/squashfs/test-add-random-data.sqsh</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-old-prepend-random-data.cpio</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N26960c3fed4f4c01933ceef567625ba3">
+            <ns1:checksumValue>f093708c428d9136d637769520874b769d5c9cf3</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/7z/test-data-added-to-middle.7z</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N602c16d05be84e59817171fae20ec2fa">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>cf427d47e7fa1f668170b02e0c924cc929f0c0f8</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/jpeg/test-cut-data-from-end.jpg</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N91bd3ff60ffb4f679b8d5ccd720abce8">
+            <ns1:checksumValue>6f0362e142ca5fbcc687a04113205d20b234ae56</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N7f949992ff80471cbf4ce33a043a4a4c">
+            <ns1:checksumValue>d6ab90bbc8f567dd0509491dd966821bd668ef8b</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/tar/test-cut-data-from-end.tar</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nf69871ab764e4b07bf7672f9a7b19cd2">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>375a58ced1ad94f41fce673abfcf56e1c861bc8d</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xar/test-gzip-add-random-data.xar</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/snappy/test-cut-data-from-end.sz</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/ar/test-data-replaced-in-middle.ar</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ne73d49f72c5546edb9efbbd2c7cdd838">
+            <ns1:checksumValue>9c632ae40a889d077d5bebac7a4243528400a686</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-4096-32-be-empty-dir.img</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N83da9a9c4fe1499f8609e3b1f9ca5119">
+            <ns1:checksumValue>7e64e59ab574d89e6546adac645bf67e432f600c</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/zstd/test-prepend-random-data.zst</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/ico/test-png-data-added-to-middle.ico</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/png/test-cut-data-from-middle.png</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xar/test-gzip-cut-data-from-middle.xar</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xar/test-none-cut-data-from-end.xar</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N674617b86898401fa4e0338627c6fd31">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>064fd7a8114a7b07c11ce1d46803583deed10116</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ned0072eba7574585b3c0d39ba2431447">
+            <ns1:checksumValue>8415ac5ec979a76d4d8778f4d41b51c396173b71</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N2fbf64b80be34a0698be253638195d11">
+            <ns1:checksumValue>a16128e34a618b325a10d0269ae911a057fd8ab7</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/CC-BY-SA-2.5"/>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N1c31a353d81147a98b7a45c610c28167">
+            <ns1:checksumValue>7fd0d6785e608c2f787b51dff9c3cd43a0ce03b7</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N6d611b6047ce4c579bee8f2d020298d7">
+            <ns1:checksumValue>36050320c5286a317336c06be4192c0d1a1e6666</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lzip/test.lz</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nd1070faa81ec461ebad5610ec9449600">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>c7f092699a4f0f247767ec1fe9da7346353782ce</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N2a44383bfbf64ac79f862a84b2f95f59">
+            <ns1:checksumValue>e1e78fdbc97e301b6ee9b78cca81c56b8284b9c0</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/ico/test-cut-data-from-end-add-random.ico</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/bangfilescans.py</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/lz4/pg6130.txt-cut-data-from-end.lz4</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/zstd/test-cut-data-from-end-add-random.zst</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/performance-test/bang-scanner/README.md</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N7a6f113c887d4cada8c8d6699562fcf2">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>60351c26c9ff0d8b6f23fb2aac72713b9cde27da</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/simg/zero.img</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N0305772eedf6424eadde71c739f19c67">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>91c2df999660d0d349df3bc632f5081b585bce9a</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/ico/test-png-cut-data-from-end-add-random.ico</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N2c764f89f3de42f2b15b07d7fdb7674d">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>bd77fbb35b7cb61fde3d7e4f626691f7372fe70b</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-crc-data-replaced-in-middle.cpio</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N27793605167e4e05a9907006e6bf22f6">
+            <ns1:checksumValue>3a8ef5dfffaa755d107611d3bb12be65cb4ab8c4</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N7ef0a3ba6b1d4f55aaa346953974fbea">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>a0e307b1b3b5672187419c330d8b565d160ae151</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/GFDL-1.3-only"/>
+        <ns1:fileName>./binaryanalysis-ng/src/reporter/picklereport.py</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N441a1ef4b40d4afba8d91cbf64abe11d">
+            <ns1:checksumValue>b22e3ce88ac6404c3e0f5a4119dc3f4e552d1ada</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-4096-32-be-dir-with-file.img</ns1:fileName>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/CC-BY-3.0"/>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-new-add-random-data.cpio</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/gif/test-cut-data-from-middle.gif</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Na74fc767e40b4fc39bc46a553aee78a4">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>ee6e181c78e8f818770c59171426e1551dcac9ea</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ne244311c6b0a469483026cfd8fc9d561">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>c3141f07915cd862418dd4f6e5a354daa3c937b6</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N8b92276f05214e5aa43d4845f72df76a">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>f01bbed757ac439ce5fefdaa1a38af9158fec480</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N799a804722da442592d5e73967c08924">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>43c7eb85d5796802fceaf87b35f238447fbe1086</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N6b1193235dae44d6853be2c797fd82e7">
+            <ns1:checksumValue>dbc0e3460553cc069e6bdea027768dd0f2596ce3</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N9a684f2c7a1942e5836cd7b29540934a">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>5fd032f685cd97dacf721a648d2dc4fc3cd5938f</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Na631af8038e54ab39814f275dfbef70b">
+            <ns1:checksumValue>0f0eddba42a0a5bfe34df4881e6472a47da41e15</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nad93ada60c3c43a4a735dfb4fe345894">
+            <ns1:checksumValue>486cb47f36ac88a55d6ffdc457aec0bcf6762107</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/squashfs/test-cut-data-from-end.sqsh</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xar/test-bzip2-data-replaced-in-middle.xar</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N589352aa90d34326aa468134a602685d">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>9991d9a76df09350476a1cbc35b279c7704ca7b9</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N2a37754fd7704ee59468753b1c5e3f70">
+            <ns1:checksumValue>88b07bb8f59ac61494aadc3e25b3c414ae761227</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/gzip/test.jpg-cut-data-from-middle.gz</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nbdeed97f2090451188d5206dd9f442de">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>19adfa3b66d8f49da902085868321581faa391db</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N3cc18f58bbd24554aa76e2895bd7fec7">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>e4007fd5691d8cee5445cadcf516e5e1a0829684</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/bmp/test-cut-data-from-middle.bmp</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-2048-64-le-empty-file.img</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N54b9ba42ab5d4c39bca3b58ee0f04129">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>b4526168f1d8f1a6957f0f87c38b3d1765afc061</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ncc02a69f73de4b6896bd0ede892de06c">
+            <ns1:checksumValue>95de161a5498f78f0e36af966d82c7074c5b5214</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/ico/test-png-add-random-data.ico</ns1:fileName>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/LGPL-3.0-only"/>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/squashfs/README</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nd65edc65edc745a692da18098d15a572">
+            <ns1:checksumValue>beea6039218449725bcd6d2410e4d69c66a7f8e7</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-1024-32-le-empty-file.img</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N5b8e0d9ffb344451801ece8d1ae83631">
+            <ns1:checksumValue>5f9cc12b95eaa5c7edc772ac1caf80c5e290cbf8</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xar/test-gzip-cut-data-from-end-add-random.xar</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/7z/test-data-replaced-in-middle.7z</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/sgi/test-prepend-random-data.sgi</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/tar/test-dir.tar</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/gif/test-data-replaced-in-middle.gif</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N5337efab930d46b3bab2b156861e4d83">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>6495f4ef473a091a91e97642ce653da59d17624e</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nffecf54fc5b24a6dbaa38ad220992ffb">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>1099750faa6c8197715344a18faac4311b12ee7b</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nc512c0827ce84e0db82b5f38768df276">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>0cfc55ccb647bc1e1ffe15b8bab6fb723df08e84</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xz/test-data-replaced-in-middle.xz</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/ico/test.ico</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N0915e92ba9304692b25d7ea3dc29da7d">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>a5411a3ef9ecd9d1cf509d257d23628cecdca036</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-new-cut-data-from-end.cpio</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/a/openwrt_version</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/zip/test-encrypted.zip</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N988444bf23e943048cb58a2bd7b6701c">
+            <ns1:checksumValue>ed5a712f366d2d75dd8b18a471542ad80dc5171f</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/sgi/test-verbatim.sgi</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N0e6ba8d54108480088393c734c41e1e9">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>1bc5bf8edbae2680ff6bc2827b4056bec1510b87</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-1.1"/>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/sgi/test-cut-data-from-middle.sgi</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xz/test-cut-data-from-end-add-random.xz</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N67cd26d0bb45480c86a4693bf71de63c">
+            <ns1:checksumValue>c54d37effcdf0289c59f73ed087f06bb70f0b50d</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N1d1439fef19248518de7d9a41d7aa74f">
+            <ns1:checksumValue>50c9e5122a1873ac166a3b63d31be01069d4d844</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/zip/test-cut-data-from-middle.zip</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xar/test-bzip2-cut-data-from-end-add-random.xar</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N9514cc37bc554313ba956f6bc364c192">
+            <ns1:checksumValue>e779e02af175db4948c8ce3facf766f81efcbbc1</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N4e792af925384f76a717227a8ba44f29">
+            <ns1:checksumValue>aadb8b085bd17877625ad5e206c38ff4fd6b272c</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/bmp/test-data-added-to-middle.bmp</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/jffs2/test-big-cut-data-from-end.jffs2</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N1a518bad23bc461dab81724ffc730450">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>a6374924eb5359d7bcfff5c5ac2aebbe5653b0be</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/zip/test-cut-data-from-end-add-random.zip</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/gif/test-data-added-to-middle.gif</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ne2d7e118ac6c457da3ed90c3ced89c72">
+            <ns1:checksumValue>96581a16ae71546f753051b64f80173acee92b96</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nbfe98c47d43547c9bf93e26d65895500">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>889a4151870255120b36889f8851bba48a1746c7</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nc848eeafda5344c3a77bc8feb2949af6">
+            <ns1:checksumValue>7b40fb9bb26d503cde68d3d45c478bf74f200c80</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N78a42923b25940d0ae4f135b3538cb72">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>ec05870898858004bab83e82aff2015b190398a9</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/banggames.py</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/png/Animated_PNG_example_bouncing_beach_ball-data-added-to-middle.png</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N93cafd741d8e4cb89fa6eda95e6ae8e4">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>baf4ae268caa78e70d5824ed8572ffed1078bb2a</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/rzip/test-prepend-random-data.rz</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/jffs2/test-big-data-added-to-middle.jffs2</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N9cc4740520de4ad5926b9c11a31e07a8">
+            <ns1:checksumValue>438bf37b3354baea0bec7bdf392f082d32fbe950</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/zstd/test-data-added-to-middle.zst</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/zstd/test-add-random-data.zst</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-old-data-added-to-middle.cpio</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/ico/test-png-data-replaced-in-middle.ico</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nec83d08c019645c2bd553c73c0642f93">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>f775cfe49f2cca793b2460e952edaef3f8c45a1c</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nbf98d984a9194ceba928c176461e13cd">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>d40d2e61bcf56e2b8e0f254b9f49e1ac21fa7c27</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nc799148b91114cbcaef365113b029aee">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>15f9867e142c86bf21fd53192be383774432a752</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nf9263c966be340a189ffd8f0b0978fd0">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>8ef151c4e97699643ec827d0a8b80d34f1135873</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/xar/test-none-data-replaced-in-middle.xar</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/ico/test-data-added-to-middle.ico</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N5ed2c8e0b184465e9d7ebf0c12941b67">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>0dec2026568c919f9ad5b9d7481ddc2b9efc7db9</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N9234b08eb7d0428f9bc8071ddbacc0fb">
+            <ns1:checksumValue>f56b67fb61bdc831ad1551752a6a4fe6a371991d</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N5f60168b00a3496e9279f5cc43667068">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>56560053a0d47dcb81dde0aa2d137e1730e39df1</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N38e4f3a2b5bb40b3a44f0297b10267b1">
+            <ns1:checksumValue>3847f6df6398c5373dc0ed76e757b9f638176da2</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N1ea8e7c2b2ff4de2b82e8ae7f841be05">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>92502aee67a3fce47497da0c8fe97f3bf1a7e0b7</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nf607c605a36b4d7e8143dbed9b916e84">
+            <ns1:checksumValue>d3ef54cff097b2bfa1d5f122773bb34056f2e5ba</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-4096-64-le-empty-dir.img</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Na07f81a0f3e248e3be48eac43a7bafc4">
+            <ns1:checksumValue>3c474c651e860dc2324793d8ba98bc538eefce90</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/pnm/test-prepend-random-data.pnm</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nae0eac951a9641b0a14f7b1aeb78a2b2">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>1c654108c76cb6036c1c33849f05abfe8f260d63</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N01a85396b7944a66940818d38beceee2">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>4c665f87b5dc2e7d26279c4b48968d085e1ace32</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nb4c9634796334b7fbaa091a64238dee8">
+            <ns1:checksumValue>c179ec0b227b8e8124b5b34b40257a6950c7f1e9</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ne0541e6bfe8e4689b71e5d30cdfb08cf">
+            <ns1:checksumValue>66ea012afc1bb625e2b08a9695bba8dc189ca9b3</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N56566d5f721f496a9abe58a19d56249f">
+            <ns1:checksumValue>7267f1e10fd08f5474dfc5aaf7523d115992ef08</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/rzip/test-add-random-data.rz</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Na560f5e70d1349cd81122781d24a607b">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>b9616f1fcd32a911d4679889a4ab8a858e80206a</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-new-prepend-random-data.cpio</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N2b97ee0ffdcb490baa3fa980c8b8d5d2">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>e3f00c46aad283109a045d4c0cd3b653be2a74eb</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ncc639154524e4e6cae4f10ff63d8b5be">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>b9b9c8e5aa2188e2ab8b2b0b6fdcf3e18df44175</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N99100340f7724394a297c4a3e11b5e91">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>76039c435a25b9e703664089161725838de77c54</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/CC-BY-4.0"/>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/snappy/test-cut-data-from-middle.sz</ns1:fileName>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N47fb7aba39e04903adc4b36b199c1dbe">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</ns1:extractedText>
+            <ns1:licenseId>LicenseRef-scancode-unknown</ns1:licenseId>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</rdfs:comment>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N43ce131e97254096b5bf0d5326eb611f">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>1810dd8329b249d89bc6dd4c46fe041415ae6103</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/ar/test-data-added-to-middle.ar</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/bzip2/test-prepend-random-data.bz2</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/cpio/test-new-data-replaced-in-middle.cpio</ns1:fileName>
+        <ns1:fileName>./binaryanalysis-ng/src/test/testdata/unpackers/yaffs2/yaffs2-4096-64-be-dir-with-file.img</ns1:fileName>
+      </ns1:File>
+    </ns1:referencesFile>
+    <ns1:creationInfo>
+      <ns1:CreationInfo rdf:nodeID="Nf8b817a2e611464eba439c647fedc32d">
+        <ns1:created>2020-02-26T17:07:27Z</ns1:created>
+        <ns1:creator>Tool: scancode-toolkit 3.1.1</ns1:creator>
+      </ns1:CreationInfo>
+    </ns1:creationInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N87496cd874ab43b9abec7104c1fce814">
+        <ns1:licenseId>LicenseRef-scancode-gust-font-1.0</ns1:licenseId>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/gust-font-1.0.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/gust-font-1.0.yml
+</rdfs:comment>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:dataLicense rdf:resource="http://spdx.org/licenses/CC0-1.0"/>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N055d85b33a7b4af789f43cf34b68576b">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Nf63b63d807294448b650cd3c4c0be812">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/gust-font-1.0.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/gust-font-1.0.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-gust-font-1.0</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N5081c9bba63d4179ad30f512cd48128d">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/public-domain.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-public-domain</ns1:licenseId>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/public-domain.yml
+</ns1:extractedText>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N9c663215e25b428e881f31fb70efc4b2">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/gust-font-1.0.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/gust-font-1.0.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-gust-font-1.0</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Nadb272527a9e4abc84a55da5d9a23846">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/public-domain.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-public-domain</ns1:licenseId>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/public-domain.yml
+</ns1:extractedText>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N8001dc355210482488e17f070ef11d15">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown</ns1:licenseId>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</ns1:extractedText>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N405dcf2a225249ad826dfd1b591c0a25">
+        <ns1:licenseId>LicenseRef-scancode-unknown</ns1:licenseId>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</rdfs:comment>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N6dc15628bbc8417480e423bc84faf4ab">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown</ns1:licenseId>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</rdfs:comment>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N184b3a8e9a25436a811f8d5aadae7312">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Nc0ee6bdb338c4940a5f95a04052dcc2d">
+        <ns1:licenseId>LicenseRef-scancode-unknown</ns1:licenseId>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</rdfs:comment>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+  </ns1:SpdxDocument>
+</rdf:RDF>

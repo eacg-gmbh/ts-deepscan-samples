@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:ns1="http://spdx.org/rdf/terms#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <ns1:SpdxDocument rdf:about="http://www.spdx.org/tools#SPDXRef-DOCUMENT">
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N863894b882f34f5ebedbb1630e59a8c0">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:referencesFile>
+      <ns1:File rdf:about="http://www.spdx.org/files#None">
+        <ns1:fileName>./ts-legalcheck/z3/z3.py</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nd809cea5470f4565a74746c5d225b174">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>822e80a340846715bba533f1fd4bda4cbe92029e</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./ts-legalcheck/facts/permissions.csv</ns1:fileName>
+        <ns1:fileName>./ts-legalcheck/z3/z3core.py</ns1:fileName>
+        <ns1:fileName>./ts-legalcheck/z3/z3num.py</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N586753d0dfe04400b9d0fcf7dbe003f3">
+            <ns1:checksumValue>f0eab71ed0eec115f03f8117c97579292331dd85</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Unlicense"/>
+        <ns1:fileName>./ts-legalcheck/check-module.sh</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nbadc9b8c3e9a4b4ea0ff1b3ac9984673">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>3a2cc79a899c20ea108d09c9579d1e382807eec8</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N03414cd12a3f4a02886d7ab228c9aa65">
+            <ns1:checksumValue>1c24e987d07299fed9c88e6380eb3dc68569d335</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./ts-legalcheck/facts-2.0/rules.json</ns1:fileName>
+        <ns1:copyrightText>Copyright (c) 2012 Microsoft Corporation
+</ns1:copyrightText>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N9491b72160c044418239d83d006311c8">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>97e91286f1e75b28fff62d762f624a41254b6451</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./ts-legalcheck/application.wsgi</ns1:fileName>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Nd0fcdb91c3684e11baaea16ba798f515">
+            <ns1:licenseId>LicenseRef-scancode-proprietary-license</ns1:licenseId>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/proprietary-license.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/proprietary-license.yml
+</ns1:extractedText>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:fileName>./ts-legalcheck/engine.py</ns1:fileName>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N77f8a072103a4ca893fdc3161f2a67f2">
+            <ns1:licenseId>LicenseRef-scancode-unknown</ns1:licenseId>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</rdfs:comment>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N72c29f720fcc48a2bc9d2b3025176627">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>d61e43ddbeb7cb8f67f6f2f1940363962c1d075d</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:copyrightText>Copyright (c) 2012 Microsoft Corporation
+(c), Not (c)
+</ns1:copyrightText>
+        <ns1:fileName>./ts-legalcheck/.DS_Store</ns1:fileName>
+        <ns1:fileName>./ts-legalcheck/facts/properties.json</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N7d209f8ba29443a3925ea96a64affdea">
+            <ns1:checksumValue>677abf6fb9688e099b5de3f820bde3d2dadf455e</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./ts-legalcheck/z3/z3rcf.py</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nbbc876befee44d7c8217807917a92761">
+            <ns1:checksumValue>b59d6a19fc736ec3946e997f32993561af2f008b</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N420b28319b71429dae3ee5719095d70f">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>b301c13b3be9b9891f2a0a84469443c2381b89bc</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nc10cdb6a52f44532a5ec5512f5cf44bf">
+            <ns1:checksumValue>fe98872e2f3045354fa15672e692115bb15975ef</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./ts-legalcheck/reload.sh</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nba500ea17c444c38922f6b9d2811207b">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>c8b0bef1544c7636c179d48baaca67d9c36d4e51</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nf188b040816848ea92610fc97bb09ffb">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>5e93cd03dd22ad786a3c878d6cba2982e291780d</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N98e7a56ab52f4eabba37a94a32186fb2">
+            <ns1:checksumValue>422d3dfe4a3361f350098eb01d7fe729c1132cde</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:copyrightText>Copyright (c) 2016 Microsoft Corporation
+</ns1:copyrightText>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N3aac12a61f744d62ab686d3a2fe4edc7">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>4ff9f1fa9c8ac7fe75ea62b8cc30e09a6a8c6101</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./ts-legalcheck/facts/obligations.json</ns1:fileName>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N38b6aa21c6194330915146c8ad2a67f1">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/commons-clause.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/commons-clause.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-commons-clause</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N4c3ba60de9814ebda7511dce84740b29">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>8a758eba88ba0d83eef651755d7960d77ba4bb3a</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./ts-legalcheck/z3/z3util.py</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ndcd4db74a00443f58119343f52e9f63e">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>83620acf7d6d239f007f17eb9efbde64e567b5be</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N57f1014458ff45389735397944c51b2a">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>9224f1c2c13c1d3be0ecc47e0e658f73dc1d4135</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./ts-legalcheck/engine2.py</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N58a9d70da16048d884dad10aa723fabb">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>38fc900613579daa26a5c26cd2959dbf7eb915b2</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./ts-legalcheck/awstools/secrets.json</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N391484045ca74fbdae378e08989e5a9f">
+            <ns1:checksumValue>882f185ce8c78f4928dd8aa476cd7796eac3023f</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./ts-legalcheck/Dockerfile</ns1:fileName>
+        <ns1:fileName>./ts-legalcheck/examples/ecs-gradle-sample-depA.json</ns1:fileName>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N111ec582596a4bceb4e3a01dd6060fcc">
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown</ns1:licenseId>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</ns1:extractedText>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:fileName>./ts-legalcheck/requirements.txt</ns1:fileName>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/WTFPL"/>
+        <ns1:copyrightText rdf:resource="http://spdx.org/rdf/terms#none"/>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N789803f8847b4d72b7d2762f976d0db2">
+            <ns1:checksumValue>93fdd7ba4feaf2ace041ccbe8d12d56017eb8dd4</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N8414e15be6bf4e5385c0f33095968622">
+            <ns1:checksumValue>2d6ff88af3733d303dc108943c2187c95019da76</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/CDDL-1.1"/>
+        <ns1:fileName>./ts-legalcheck/ecs-service.py</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N5d7cbd3e28cd4aefb21528bebd1ba034">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>4afaf3bf451d88ae403b50d15d6109bdcea51c5b</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MPL-1.1"/>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N5bf84eefa0704e7eab8a7b6992710003">
+            <ns1:licenseId>LicenseRef-scancode-unknown</ns1:licenseId>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</ns1:extractedText>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:fileName>./ts-legalcheck/z3/__init__.py</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N84aa9ba690434862b36d6b8b7a53202f">
+            <ns1:checksumValue>ae26efe879a0de04b199e0869015c0a289f411d8</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/LGPL-2.1-only"/>
+        <ns1:fileName>./ts-legalcheck/examples/ecs-gradle-sample-depA-result.json</ns1:fileName>
+        <ns1:fileName>./ts-legalcheck/facts/distributionUnmodified.json</ns1:fileName>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/GPL-2.0-only"/>
+        <ns1:fileName>./ts-legalcheck/facts/licenses.json</ns1:fileName>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/CC-BY-3.0"/>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/rdf/terms#none"/>
+        <ns1:fileName>./ts-legalcheck/marco.py</ns1:fileName>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/AGPL-3.0-only"/>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Neb1a88f9571443afb98ab64e4dffbc95">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>0afb23d509f07e93360e1e011cc1b4e90a347a52</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./ts-legalcheck/README.md</ns1:fileName>
+        <ns1:fileName>./ts-legalcheck/tools/dump-modules.py</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N3f19df1036cb479c8719ad3491536189">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>2f3110669ac6f7b008c6496d285553e67ccea02f</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N7e8d39b8d59148dfaf72fedc8aa02710">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Naeb80e15ef24441d910360042c8d107b">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>0db3a398545c24e5db2d46413817aca5f32f21bc</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/LGPL-3.0-only"/>
+        <ns1:fileName>./ts-legalcheck/z3/z3consts.py</ns1:fileName>
+        <ns1:fileName>./ts-legalcheck/application.conf</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nb3df7e0954084bdc906bdc2e96d85345">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>a236bd132212ca4ba1addcb1ca3b610b6d8ba860</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/BSD-2-Clause-Patent"/>
+        <ns1:fileName>./ts-legalcheck/tools/create-licenses.py</ns1:fileName>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/CNRI-Python-GPL-Compatible"/>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N72ba218ab8ea48349c8d943e6df4dc64">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>07a71d58458a9d59cc93fa6322a4a24adb1541ef</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N272dec8e1b3949c4b64c5aa4a315cf24">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>5a1a035e3ef5fbd5125ece619513468eea7501c4</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/CC-BY-NC-3.0"/>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/GPL-3.0-only"/>
+        <ns1:fileName>./ts-legalcheck/ecs.py</ns1:fileName>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N271172a20f1d4a27872108bb2fa5868f">
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</ns1:extractedText>
+            <ns1:licenseId>LicenseRef-scancode-unknown</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:fileName>./ts-legalcheck/awstools/setcreds.sh</ns1:fileName>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nbd8c526131b5418c9bb06325ebdd7fef">
+            <ns1:checksumValue>4f4739a75e7b72415f9313ead4b98e34a9cbfa2f</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./ts-legalcheck/facts/mappingQuestionnaire</ns1:fileName>
+        <ns1:fileName>./ts-legalcheck/facts-2.0/rules_internal.json</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N78542a3bb4284808872259b865328d25">
+            <ns1:checksumValue>0a913fcc9a971cbe9d6b0828103bf161493cc78e</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nf12dcab560464fe0b0497cf3346376ca">
+            <ns1:checksumValue>a7328812f96edc8730116729e6461cd3ffef6085</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N3e6dc98730474b39bba18b955e75166e">
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</rdfs:comment>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</ns1:extractedText>
+            <ns1:licenseId>LicenseRef-scancode-unknown</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoInFile>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nf652918c2280400697fc1ff75117ab39">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>b9e772d11e5b8e665b1ee5f0a60b7230010159c5</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/BSD-2-Clause"/>
+        <ns1:fileName>./ts-legalcheck/facts/permissions.json</ns1:fileName>
+        <ns1:fileName>./ts-legalcheck/tests/correctness_ECS.py</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nba9712a254c44bacaae582e8e2ac6966">
+            <ns1:checksumValue>3475b4f6a7c298f4af0bdda65d3c49790d6f1713</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nd892c1d217b4442dad73ac57c7935889">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>4efa0e280245538c0873efef7ddfbcd1e3aa7306</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./ts-legalcheck/z3/z3poly.py</ns1:fileName>
+        <ns1:fileName>./ts-legalcheck/z3/z3printer.py</ns1:fileName>
+        <ns1:fileName>./ts-legalcheck/tools/generate-dummy-licenses.py</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N48133a711ece4766bc8f0b49d4ef6e15">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>980ec873681158ee02b324642321970d65b4f746</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nc50c5d1bb2d54f3baf49ba3301854e70">
+            <ns1:checksumValue>6747fb6a66edc296eb2f08a5c43afecb06804151</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nd2a3c4ef8aea43e5905a6c79158d5025">
+            <ns1:checksumValue>cdb17d250811adc8e0bbee85fc6d69b4c11b68e9</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./ts-legalcheck/requirements_new.txt</ns1:fileName>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/CC0-1.0"/>
+        <ns1:fileName>./ts-legalcheck/facts-2.0/constraints.json</ns1:fileName>
+        <ns1:fileName>./ts-legalcheck/context.py</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N2a30cb45bf7345d3aea13cf2373ea37d">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>bbf6c7254b55181e5450dafc257bafca6514e68b</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N652a780b30624d4bbdd7fa6cbec4719c">
+            <ns1:checksumValue>caf1e18ae75e9c25aec54596765b693f325abc68</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./ts-legalcheck/examples/ECS_maven_plugin.json</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N5792c1e35ff94b03b0a06b7af93b7b58">
+            <ns1:checksumValue>f794b1f26ca24a0838613c9b13ab27358d627df4</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N593ae58aff4649b992b60d0dc186f792">
+            <ns1:checksumValue>dca2f46c180ec8bc9a4b47e315a65675392e4a7b</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/MPL-2.0"/>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ne13bf46e9ab14482934320881258c0e5">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>6404c823be561665e52ef98f11879f4f32328792</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/BSD-Protection"/>
+        <ns1:fileName>./ts-legalcheck/facts/licencePermissions.json</ns1:fileName>
+        <ns1:fileName>./ts-legalcheck/docker-entrypoint.sh</ns1:fileName>
+        <ns1:fileName>./ts-legalcheck/facts/licenses.csv</ns1:fileName>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/BSD-3-Clause-Clear"/>
+        <ns1:fileName>./ts-legalcheck/facts/obligations.csv</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N2512fdf5b8ee4fcfaff30913516d9943">
+            <ns1:checksumValue>937b0146255734a39732e8ad2824428f3a965053</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N03053d4678e34fe7880d7724a4f4addf">
+            <ns1:checksumValue>7cd5cc4b33d1a255c7259b4b9b5529709e768366</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:copyrightText>Copyright (c) 2013 Microsoft Corporation
+</ns1:copyrightText>
+        <ns1:fileName>./ts-legalcheck/application.py</ns1:fileName>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/CC-BY-NC-2.0"/>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N6a607cd8726f4d448997de671122b103">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>76fd04d5f58395afbc073d0c2e05e1e2f1ec118e</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N3ec86a5393734368b569c3ac4374eb94">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>4cb1ad8bfda229c6b196be1932ad0084b630de61</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N25492678f8f841b5ba627e683ffcf057">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>c48d388538c321bfb7fa32642b32fa6dea534538</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./ts-legalcheck/facts/distributionModified.csv</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N50f8cc491dfd43a48214a7ccd109fb26">
+            <ns1:checksumValue>9d1789c0fddd45581d0232807fb838bd38779051</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nd5c28f0884e44448bddecdb3322fab5c">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>fecff631895518f37133d1a600ed5b9ac4c6a259</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./ts-legalcheck/facts/distributionUnmodified.csv</ns1:fileName>
+        <ns1:fileName>./ts-legalcheck/z3/z3types.py</ns1:fileName>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/CDDL-1.0"/>
+        <ns1:fileName>./ts-legalcheck/facts/distributionModified.json</ns1:fileName>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/EPL-1.0"/>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/Artistic-2.0"/>
+        <ns1:fileName>./ts-legalcheck/facts/create-licenses.py</ns1:fileName>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/BSD-4-Clause"/>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N2d248b4a832a44c88d3d266947dfde5b">
+            <ns1:checksumValue>34072783b017e7e06c74ea0856f654410b9f6f6d</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N1d6c69057b0e4ced8561a1ba22634b9f">
+            <ns1:checksumValue>1d5a347d3d8569c2d62dc7366fdaf5d284e49e49</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:copyrightText>Copyright (c),
+</ns1:copyrightText>
+        <ns1:fileName>./ts-legalcheck/z3/libz3.so</ns1:fileName>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Nb0cacf5fb0d54d298b734b9ed65d2971">
+            <ns1:checksumValue>7a40f75b784eaca93f05730af06a0ceff89b7d64</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="Ncc70f58e3e6e43a7924877a5a0f73f78">
+            <ns1:checksumValue>9ef24cdae79a970dba34872e346208ed684436e3</ns1:checksumValue>
+            <ns1:algorithm>SHA1</ns1:algorithm>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:checksum>
+          <ns1:Checksum rdf:nodeID="N08089c81bf2f466791dfbfb4b2e7d70a">
+            <ns1:algorithm>SHA1</ns1:algorithm>
+            <ns1:checksumValue>63653a51f22e0780387d0a151209370bf6c81ff3</ns1:checksumValue>
+          </ns1:Checksum>
+        </ns1:checksum>
+        <ns1:fileName>./ts-legalcheck/utils.py</ns1:fileName>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/BSD-3-Clause"/>
+        <ns1:licenseInfoInFile rdf:resource="http://spdx.org/licenses/OLDAP-2.2.2"/>
+      </ns1:File>
+    </ns1:referencesFile>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Nbe859bf7fb7b41d286d751ecba5698b5">
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown</ns1:licenseId>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</ns1:extractedText>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:dataLicense rdf:resource="http://spdx.org/licenses/CC0-1.0"/>
+    <ns1:specVersion>SPDX-2.1</ns1:specVersion>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N636e5a470589459fa2f80dbc785d8adf">
+        <ns1:licenseId>LicenseRef-scancode-unknown</ns1:licenseId>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</ns1:extractedText>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:creationInfo>
+      <ns1:CreationInfo rdf:nodeID="N44be66ba4c504268a9bf405299e15184">
+        <ns1:creator>Tool: scancode-toolkit 3.1.1</ns1:creator>
+        <ns1:created>2020-02-26T07:25:24Z</ns1:created>
+      </ns1:CreationInfo>
+    </ns1:creationInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N7a94572d1f1d457196a34dde3904ce84">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</ns1:extractedText>
+        <ns1:licenseId>LicenseRef-scancode-unknown</ns1:licenseId>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</rdfs:comment>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N5c0e551ab3ea465294262441f6378c87">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:describesPackage>
+      <ns1:Package rdf:about="http://www.spdx.org/tools#SPDXRef-Package">
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/BSD-3-Clause-Clear"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/BSD-4-Clause"/>
+        <ns1:packageVerificationCode>
+          <ns1:PackageVerificationCode rdf:nodeID="N6ef1d28a45ef43abbe687d3f5bcb41eb">
+            <ns1:packageVerificationCodeValue>5b09d48c62a41e59922189a43839440536aa4926</ns1:packageVerificationCodeValue>
+          </ns1:PackageVerificationCode>
+        </ns1:packageVerificationCode>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/WTFPL"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/BSD-3-Clause"/>
+        <ns1:copyrightText>(c), Not (c)
+Copyright (c) 2012 Microsoft Corporation
+Copyright (c) 2013 Microsoft Corporation
+Copyright (c) 2016 Microsoft Corporation
+Copyright (c),
+</ns1:copyrightText>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/BSD-Protection"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/CC-BY-3.0"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/CNRI-Python-GPL-Compatible"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/Artistic-2.0"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/GPL-2.0-only"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/CC0-1.0"/>
+        <ns1:licenseInfoFromFiles>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Nbfe0295bbe114e8d913e07a0249963a4">
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-unknown</ns1:licenseId>
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</ns1:extractedText>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoFromFiles>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/CDDL-1.1"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/OLDAP-2.2.2"/>
+        <ns1:licenseInfoFromFiles>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="Na6561e2a0d654bd589190eaaa911a1d5">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/proprietary-license.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/proprietary-license.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-proprietary-license</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoFromFiles>
+        <ns1:licenseInfoFromFiles>
+          <ns1:ExtractedLicensingInfo rdf:nodeID="N87e5df9bf70d49cca5ab0a0f83338ca0">
+            <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/commons-clause.yml
+</ns1:extractedText>
+            <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/commons-clause.yml
+</rdfs:comment>
+            <ns1:licenseId>LicenseRef-scancode-commons-clause</ns1:licenseId>
+          </ns1:ExtractedLicensingInfo>
+        </ns1:licenseInfoFromFiles>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/MPL-2.0"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/EPL-1.0"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/GPL-3.0-only"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/CC-BY-NC-2.0"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/CC-BY-NC-3.0"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/BSD-2-Clause-Patent"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/BSD-2-Clause"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/Unlicense"/>
+        <ns1:licenseDeclared rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/Apache-2.0"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/LGPL-3.0-only"/>
+        <ns1:hasFile rdf:resource="http://www.spdx.org/files#None"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/CDDL-1.0"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/LGPL-2.1-only"/>
+        <ns1:licenseConcluded rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+        <ns1:downloadLocation rdf:resource="http://spdx.org/rdf/terms#noassertion"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/AGPL-3.0-only"/>
+        <ns1:licenseInfoFromFiles rdf:resource="http://spdx.org/licenses/MPL-1.1"/>
+        <ns1:name>ts-legalcheck</ns1:name>
+      </ns1:Package>
+    </ns1:describesPackage>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N5a0354fc2ac848f5a371e4948ec46fa0">
+        <ns1:licenseId>LicenseRef-scancode-proprietary-license</ns1:licenseId>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/proprietary-license.yml
+</rdfs:comment>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/proprietary-license.yml
+</ns1:extractedText>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="N025abe0d2a7943d797fa779ca562d7de">
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/unknown.yml
+</rdfs:comment>
+        <ns1:licenseId>LicenseRef-scancode-unknown</ns1:licenseId>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+    <ns1:hasExtractedLicensingInfo>
+      <ns1:ExtractedLicensingInfo rdf:nodeID="Na179de1de1074ed2b64c6bc9548b60f9">
+        <ns1:licenseId>LicenseRef-scancode-commons-clause</ns1:licenseId>
+        <ns1:extractedText>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/commons-clause.yml
+</ns1:extractedText>
+        <rdfs:comment>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/commons-clause.yml
+</rdfs:comment>
+      </ns1:ExtractedLicensingInfo>
+    </ns1:hasExtractedLicensingInfo>
+  </ns1:SpdxDocument>
+</rdf:RDF>
